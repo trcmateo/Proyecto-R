@@ -1,0 +1,1811 @@
+,Fecha,Producto,Cantidad,Precio_Unitario,Descuento,Total,Vendedor,Ubicación,Forma_Pago,Estado
+0,2022-01-01,Tableta,4,114,0.15,4935,Carlos,En linea,Efectivo,Completo
+1,2022-01-02,Laptop,3,835,,3144,Juan,Local,nan,Cancelado
+2,2022-01-03,Tableta,4,672,0.15,1545,Maria,En linea,Tarjeta,Pendiente
+3,2022-01-04,Tableta,7,221,,4056,Maria,En linea,Tarjeta,Cancelado
+4,2022-01-05,Laptop,1,376,0.05,3181,Carlos,Local,Efectivo,Pendiente
+5,2022-01-06,Laptop,6,657,0.05,3699,Juan,Local,Tarjeta,Pendiente
+6,2022-01-07,Tableta,3,552,0.1,1438,Maria,En linea,nan,Completo
+7,2022-01-08,Telefono,7,489,,941,Juan,Local,nan,Completo
+8,2022-01-09,Tableta,2,393,0.1,3050,Maria,En linea,nan,Pendiente
+9,2022-01-10,Tableta,2,673,0.1,4725,Carlos,Local,nan,Cancelado
+10,2022-01-11,Tableta,4,697,0.05,1096,Juan,Local,nan,Cancelado
+11,2022-01-12,Tableta,1,545,0.15,2005,Carlos,Local,Efectivo,Completo
+12,2022-01-13,Laptop,3,309,0.15,1361,Maria,Local,nan,Pendiente
+13,2022-01-14,Tableta,9,689,0.1,3140,Carlos,Local,Tarjeta,Completo
+14,2022-01-15,Telefono,7,813,0.05,4231,Carlos,En linea,Tarjeta,Pendiente
+15,2022-01-16,Laptop,7,401,,2051,Carlos,Local,Tarjeta,Pendiente
+16,2022-01-17,Telefono,4,322,0.15,3736,Maria,Local,Tarjeta,Completo
+17,2022-01-18,Telefono,2,833,0.1,2236,Juan,En linea,Efectivo,Cancelado
+18,2022-01-19,Telefono,4,102,0.15,1949,Carlos,En linea,Tarjeta,Completo
+19,2022-01-20,Telefono,6,617,0.15,764,Juan,En linea,Efectivo,Pendiente
+20,2022-01-21,Laptop,3,192,,3159,Maria,Local,Tarjeta,Completo
+21,2022-01-22,Laptop,1,619,0.05,3221,Juan,Local,Efectivo,Cancelado
+22,2022-01-23,Telefono,8,527,,1962,Carlos,En linea,Efectivo,Cancelado
+23,2022-01-24,Telefono,5,592,0.05,4752,Carlos,En linea,Efectivo,Pendiente
+24,2022-01-25,Laptop,5,334,0.15,1945,Carlos,En linea,Tarjeta,Completo
+25,2022-01-26,Laptop,4,719,0.1,2798,Carlos,En linea,Efectivo,Cancelado
+26,2022-01-27,Laptop,6,260,,3425,Carlos,Local,nan,Completo
+27,2022-01-28,Tableta,3,820,0.05,2132,Carlos,Local,nan,Cancelado
+28,2022-01-29,Tableta,9,851,0.15,2874,Maria,Local,Tarjeta,Pendiente
+29,2022-01-30,Tableta,5,430,0.05,1012,Maria,Local,nan,Pendiente
+30,2022-01-31,Telefono,3,432,0.05,715,Maria,Local,nan,Completo
+31,2022-02-01,Tableta,1,149,0.05,3831,Juan,En linea,nan,Pendiente
+32,2022-02-02,Telefono,6,622,0.15,2672,Juan,Local,Tarjeta,Cancelado
+33,2022-02-03,Telefono,2,962,0.1,3653,Maria,En linea,Tarjeta,Pendiente
+34,2022-02-04,Tableta,3,767,0.1,2206,Juan,En linea,nan,Cancelado
+35,2022-02-05,Telefono,1,591,0.1,2606,Juan,En linea,Tarjeta,Cancelado
+36,2022-02-06,Tableta,9,681,0.05,2067,Carlos,Local,Efectivo,Pendiente
+37,2022-02-07,Tableta,8,780,0.15,2708,Carlos,En linea,nan,Cancelado
+38,2022-02-08,Laptop,2,371,0.05,2831,Juan,Local,Tarjeta,Cancelado
+39,2022-02-09,Tableta,8,679,0.1,2653,Juan,En linea,Tarjeta,Completo
+40,2022-02-10,Laptop,9,966,0.1,1628,Maria,Local,nan,Completo
+41,2022-02-11,Tableta,1,351,0.15,4010,Juan,En linea,Tarjeta,Completo
+42,2022-02-12,Tableta,5,659,0.05,4823,Carlos,Local,nan,Pendiente
+43,2022-02-13,Laptop,8,795,,4153,Juan,En linea,Tarjeta,Completo
+44,2022-02-14,Laptop,2,931,,2865,Maria,En linea,Efectivo,Cancelado
+45,2022-02-15,Tableta,4,798,0.1,3421,Carlos,En linea,nan,Pendiente
+46,2022-02-16,Telefono,7,189,0.15,1579,Carlos,En linea,Efectivo,Pendiente
+47,2022-02-17,Laptop,3,545,0.05,4011,Carlos,Local,nan,Pendiente
+48,2022-02-18,Telefono,5,431,0.05,3241,Carlos,Local,Tarjeta,Pendiente
+49,2022-02-19,Telefono,8,238,0.1,3520,Juan,Local,Efectivo,Cancelado
+50,2022-02-20,Telefono,3,456,0.1,728,Maria,En linea,Tarjeta,Cancelado
+51,2022-02-21,Laptop,4,700,0.05,670,Juan,En linea,nan,Completo
+52,2022-02-22,Telefono,9,373,0.05,794,Juan,En linea,nan,Pendiente
+53,2022-02-23,Laptop,7,118,0.1,4784,Carlos,En linea,nan,Completo
+54,2022-02-24,Telefono,1,410,0.05,925,Maria,En linea,nan,Cancelado
+55,2022-02-25,Tableta,4,969,,1418,Carlos,En linea,nan,Pendiente
+56,2022-02-26,Tableta,4,985,0.1,3753,Juan,Local,Efectivo,Cancelado
+57,2022-02-27,Laptop,9,253,0.05,998,Juan,Local,nan,Completo
+58,2022-02-28,Tableta,6,489,0.1,3309,Carlos,Local,Tarjeta,Cancelado
+59,2022-03-01,Tableta,9,359,0.15,1325,Juan,Local,Efectivo,Pendiente
+60,2022-03-02,Telefono,6,719,0.1,4279,Juan,Local,Tarjeta,Pendiente
+61,2022-03-03,Laptop,6,982,0.1,2358,Carlos,Local,nan,Completo
+62,2022-03-04,Telefono,5,896,0.15,2618,Juan,Local,Tarjeta,Pendiente
+63,2022-03-05,Telefono,5,670,,645,Maria,Local,Efectivo,Cancelado
+64,2022-03-06,Telefono,2,224,0.05,4077,Carlos,En linea,Efectivo,Cancelado
+65,2022-03-07,Telefono,8,453,0.15,692,Maria,En linea,Efectivo,Cancelado
+66,2022-03-08,Telefono,8,372,0.1,4388,Juan,En linea,Tarjeta,Cancelado
+67,2022-03-09,Telefono,1,718,0.05,551,Juan,En linea,Efectivo,Completo
+68,2022-03-10,Telefono,8,910,0.15,2910,Carlos,En linea,Tarjeta,Cancelado
+69,2022-03-11,Laptop,5,344,0.05,2320,Juan,En linea,nan,Completo
+70,2022-03-12,Tableta,2,947,0.05,3464,Carlos,En linea,nan,Cancelado
+71,2022-03-13,Telefono,2,549,0.15,3021,Carlos,Local,Tarjeta,Completo
+72,2022-03-14,Telefono,6,346,0.05,2369,Carlos,Local,Efectivo,Cancelado
+73,2022-03-15,Telefono,9,619,,3068,Carlos,En linea,Tarjeta,Cancelado
+74,2022-03-16,Telefono,1,240,0.15,2367,Carlos,Local,Tarjeta,Completo
+75,2022-03-17,Telefono,6,461,,3238,Maria,Local,Tarjeta,Pendiente
+76,2022-03-18,Telefono,9,107,0.1,3769,Carlos,Local,nan,Pendiente
+77,2022-03-19,Tableta,8,577,0.05,3699,Maria,Local,Tarjeta,Pendiente
+78,2022-03-20,Tableta,6,451,0.1,3079,Juan,Local,nan,Completo
+79,2022-03-21,Telefono,3,594,0.1,4505,Carlos,En linea,Tarjeta,Pendiente
+80,2022-03-22,Tableta,8,705,0.05,740,Juan,Local,nan,Pendiente
+81,2022-03-23,Laptop,9,932,0.15,3940,Carlos,En linea,Tarjeta,Completo
+82,2022-03-24,Telefono,1,526,0.05,1907,Maria,En linea,Tarjeta,Pendiente
+83,2022-03-25,Laptop,9,138,0.1,4002,Maria,En linea,Efectivo,Pendiente
+84,2022-03-26,Laptop,6,692,0.1,4538,Maria,Local,Efectivo,Pendiente
+85,2022-03-27,Telefono,6,286,0.15,582,Juan,En linea,Tarjeta,Completo
+86,2022-03-28,Tableta,4,695,0.05,4268,Carlos,En linea,Tarjeta,Completo
+87,2022-03-29,Laptop,1,699,0.1,1450,Juan,En linea,Tarjeta,Pendiente
+88,2022-03-30,Telefono,8,853,,1110,Maria,En linea,Tarjeta,Pendiente
+89,2022-03-31,Laptop,2,953,0.1,4105,Juan,Local,Efectivo,Completo
+90,2022-04-01,Laptop,1,192,0.1,3783,Maria,En linea,nan,Pendiente
+91,2022-04-02,Laptop,2,185,0.15,2673,Maria,En linea,Tarjeta,Completo
+92,2022-04-03,Laptop,1,143,,3984,Maria,En linea,Efectivo,Pendiente
+93,2022-04-04,Tableta,1,236,0.1,2022,Carlos,En linea,Tarjeta,Completo
+94,2022-04-05,Laptop,9,520,0.1,3101,Carlos,Local,Tarjeta,Cancelado
+95,2022-04-06,Laptop,1,173,,3157,Maria,En linea,nan,Cancelado
+96,2022-04-07,Laptop,4,647,0.05,2659,Juan,En linea,Tarjeta,Completo
+97,2022-04-08,Tableta,6,712,0.05,2949,Juan,En linea,Tarjeta,Cancelado
+98,2022-04-09,Laptop,7,611,0.1,4330,Carlos,En linea,nan,Pendiente
+99,2022-04-10,Laptop,2,255,0.1,621,Maria,En linea,nan,Completo
+100,2022-04-11,Tableta,6,354,0.05,4868,Juan,En linea,nan,Completo
+101,2022-04-12,Tableta,7,270,0.15,1817,Maria,Local,nan,Pendiente
+102,2022-04-13,Tableta,2,827,,4993,Juan,En linea,Efectivo,Pendiente
+103,2022-04-14,Laptop,2,269,,3018,Carlos,Local,Efectivo,Completo
+104,2022-04-15,Tableta,7,863,0.15,1730,Maria,Local,Efectivo,Pendiente
+105,2022-04-16,Tableta,1,971,0.15,1633,Maria,En linea,Tarjeta,Completo
+106,2022-04-17,Laptop,8,421,0.15,1801,Juan,Local,nan,Pendiente
+107,2022-04-18,Tableta,3,666,0.15,4534,Juan,En linea,nan,Completo
+108,2022-04-19,Laptop,6,555,0.15,2410,Juan,Local,Efectivo,Pendiente
+109,2022-04-20,Telefono,9,702,0.15,2005,Maria,En linea,Tarjeta,Pendiente
+110,2022-04-21,Tableta,6,889,,3685,Carlos,Local,Tarjeta,Cancelado
+111,2022-04-22,Telefono,9,712,0.15,2416,Carlos,Local,Tarjeta,Cancelado
+112,2022-04-23,Laptop,7,254,0.05,4048,Juan,En linea,Efectivo,Cancelado
+113,2022-04-24,Tableta,9,988,0.15,3257,Carlos,Local,Tarjeta,Pendiente
+114,2022-04-25,Laptop,2,448,0.15,2456,Juan,Local,Tarjeta,Completo
+115,2022-04-26,Telefono,8,550,,678,Carlos,Local,Tarjeta,Pendiente
+116,2022-04-27,Laptop,8,975,,1396,Maria,Local,nan,Cancelado
+117,2022-04-28,Tableta,2,752,0.15,2051,Juan,Local,Efectivo,Pendiente
+118,2022-04-29,Tableta,4,272,,991,Carlos,En linea,nan,Cancelado
+119,2022-04-30,Telefono,7,109,0.1,560,Maria,Local,nan,Cancelado
+120,2022-05-01,Laptop,4,839,,1577,Carlos,Local,Efectivo,Completo
+121,2022-05-02,Tableta,4,364,,3395,Maria,En linea,nan,Completo
+122,2022-05-03,Telefono,6,537,,4660,Maria,En linea,Tarjeta,Cancelado
+123,2022-05-04,Tableta,6,859,,4183,Carlos,En linea,Tarjeta,Cancelado
+124,2022-05-05,Tableta,3,346,0.05,1085,Carlos,Local,Tarjeta,Pendiente
+125,2022-05-06,Laptop,9,766,0.05,4460,Maria,Local,Tarjeta,Cancelado
+126,2022-05-07,Tableta,2,645,0.05,4270,Maria,Local,Efectivo,Pendiente
+127,2022-05-08,Laptop,6,598,0.15,1034,Maria,Local,nan,Cancelado
+128,2022-05-09,Tableta,7,228,0.15,3962,Juan,En linea,nan,Completo
+129,2022-05-10,Telefono,9,771,0.1,4511,Maria,En linea,Tarjeta,Completo
+130,2022-05-11,Tableta,3,700,0.05,3898,Juan,Local,Tarjeta,Cancelado
+131,2022-05-12,Laptop,3,704,0.15,2655,Maria,Local,nan,Pendiente
+132,2022-05-13,Laptop,7,426,,1504,Juan,Local,Efectivo,Pendiente
+133,2022-05-14,Telefono,4,852,,2999,Maria,Local,nan,Pendiente
+134,2022-05-15,Tableta,8,934,0.05,826,Maria,En linea,Tarjeta,Cancelado
+135,2022-05-16,Tableta,7,503,0.1,3206,Maria,En linea,Tarjeta,Cancelado
+136,2022-05-17,Telefono,5,728,0.1,501,Carlos,Local,Efectivo,Completo
+137,2022-05-18,Tableta,7,705,,1533,Carlos,En linea,nan,Completo
+138,2022-05-19,Tableta,3,774,0.1,2981,Maria,Local,Efectivo,Cancelado
+139,2022-05-20,Laptop,2,710,0.05,624,Juan,Local,Efectivo,Completo
+140,2022-05-21,Tableta,6,724,,1604,Juan,En linea,Tarjeta,Pendiente
+141,2022-05-22,Tableta,2,458,0.15,3199,Maria,Local,nan,Pendiente
+142,2022-05-23,Telefono,3,702,0.15,2361,Carlos,En linea,Tarjeta,Cancelado
+143,2022-05-24,Telefono,6,957,0.1,3420,Juan,Local,nan,Pendiente
+144,2022-05-25,Laptop,5,817,,628,Carlos,En linea,Tarjeta,Cancelado
+145,2022-05-26,Tableta,8,116,,937,Juan,Local,Tarjeta,Pendiente
+146,2022-05-27,Tableta,9,373,0.15,3048,Maria,En linea,nan,Cancelado
+147,2022-05-28,Tableta,3,784,,3629,Carlos,Local,nan,Pendiente
+148,2022-05-29,Laptop,3,215,,1721,Juan,Local,Tarjeta,Pendiente
+149,2022-05-30,Laptop,3,960,,1401,Maria,En linea,nan,Completo
+150,2022-05-31,Telefono,6,792,0.1,3668,Maria,Local,Tarjeta,Completo
+151,2022-06-01,Laptop,1,190,,4986,Maria,En linea,nan,Completo
+152,2022-06-02,Tableta,7,181,0.05,4418,Carlos,En linea,Tarjeta,Completo
+153,2022-06-03,Tableta,1,423,0.1,1567,Carlos,Local,Tarjeta,Completo
+154,2022-06-04,Laptop,5,213,,526,Maria,Local,Tarjeta,Completo
+155,2022-06-05,Tableta,8,868,,1047,Carlos,Local,Efectivo,Cancelado
+156,2022-06-06,Tableta,4,157,0.05,3168,Juan,Local,nan,Cancelado
+157,2022-06-07,Laptop,5,253,0.1,1066,Maria,En linea,Tarjeta,Completo
+158,2022-06-08,Laptop,4,976,0.15,1203,Maria,Local,Efectivo,Cancelado
+159,2022-06-09,Tableta,4,503,0.15,4780,Carlos,Local,Tarjeta,Completo
+160,2022-06-10,Tableta,8,727,0.1,3640,Maria,Local,Efectivo,Cancelado
+161,2022-06-11,Tableta,2,954,,2090,Juan,En linea,Tarjeta,Pendiente
+162,2022-06-12,Telefono,1,365,,1305,Carlos,Local,Tarjeta,Cancelado
+163,2022-06-13,Telefono,3,414,0.15,4291,Carlos,En linea,Efectivo,Cancelado
+164,2022-06-14,Telefono,9,814,0.15,1857,Maria,Local,Efectivo,Cancelado
+165,2022-06-15,Laptop,4,140,0.15,3725,Maria,En linea,nan,Pendiente
+166,2022-06-16,Telefono,5,204,0.05,4118,Maria,Local,nan,Completo
+167,2022-06-17,Laptop,2,989,0.15,2626,Carlos,Local,Efectivo,Cancelado
+168,2022-06-18,Laptop,4,292,0.05,2960,Maria,En linea,nan,Cancelado
+169,2022-06-19,Telefono,2,500,0.1,1045,Juan,Local,Efectivo,Pendiente
+170,2022-06-20,Telefono,2,377,,3228,Maria,Local,nan,Completo
+171,2022-06-21,Telefono,4,453,0.15,4234,Maria,Local,Tarjeta,Cancelado
+172,2022-06-22,Tableta,6,848,,3062,Carlos,En linea,nan,Pendiente
+173,2022-06-23,Telefono,7,832,,2579,Maria,Local,Tarjeta,Completo
+174,2022-06-24,Tableta,3,679,0.15,3141,Carlos,En linea,Tarjeta,Completo
+175,2022-06-25,Laptop,3,808,0.15,3614,Maria,En linea,nan,Cancelado
+176,2022-06-26,Tableta,6,355,0.1,2426,Juan,En linea,Efectivo,Cancelado
+177,2022-06-27,Telefono,3,750,0.05,1116,Juan,Local,Tarjeta,Cancelado
+178,2022-06-28,Laptop,2,923,0.05,4144,Carlos,En linea,Tarjeta,Cancelado
+179,2022-06-29,Laptop,8,760,,1703,Carlos,En linea,nan,Pendiente
+180,2022-06-30,Laptop,5,198,0.15,2259,Maria,Local,Efectivo,Pendiente
+181,2022-07-01,Tableta,1,687,0.1,3065,Maria,En linea,Efectivo,Cancelado
+182,2022-07-02,Telefono,3,381,0.1,3674,Juan,En linea,nan,Completo
+183,2022-07-03,Laptop,8,982,0.1,3581,Maria,Local,Efectivo,Cancelado
+184,2022-07-04,Laptop,4,502,0.1,3130,Juan,Local,nan,Completo
+185,2022-07-05,Laptop,7,208,0.1,3661,Carlos,En linea,nan,Completo
+186,2022-07-06,Tableta,2,799,0.05,4821,Maria,Local,nan,Completo
+187,2022-07-07,Tableta,7,298,0.05,1169,Carlos,Local,Tarjeta,Pendiente
+188,2022-07-08,Telefono,5,402,0.05,3668,Maria,Local,Tarjeta,Completo
+189,2022-07-09,Tableta,5,426,0.15,2621,Juan,En linea,Tarjeta,Completo
+190,2022-07-10,Laptop,6,253,,4578,Carlos,En linea,nan,Pendiente
+191,2022-07-11,Telefono,9,651,0.1,4651,Carlos,Local,Tarjeta,Completo
+192,2022-07-12,Laptop,6,744,0.15,1219,Maria,En linea,Tarjeta,Completo
+193,2022-07-13,Laptop,8,504,0.1,3100,Carlos,Local,Tarjeta,Cancelado
+194,2022-07-14,Tableta,7,561,0.05,4098,Juan,Local,nan,Completo
+195,2022-07-15,Telefono,9,231,0.15,1166,Carlos,Local,nan,Completo
+196,2022-07-16,Tableta,4,890,0.05,783,Carlos,Local,nan,Completo
+197,2022-07-17,Tableta,2,973,0.1,4403,Maria,Local,Tarjeta,Completo
+198,2022-07-18,Telefono,7,183,0.1,4065,Carlos,En linea,Efectivo,Completo
+199,2022-07-19,Laptop,6,498,,2734,Maria,En linea,Tarjeta,Pendiente
+200,2022-07-20,Laptop,1,853,0.1,1965,Maria,En linea,Tarjeta,Completo
+201,2022-07-21,Telefono,9,727,0.05,629,Carlos,En linea,nan,Completo
+202,2022-07-22,Laptop,9,208,0.1,2560,Juan,Local,nan,Pendiente
+203,2022-07-23,Telefono,2,320,,4172,Maria,Local,Tarjeta,Pendiente
+204,2022-07-24,Telefono,3,652,,2994,Carlos,En linea,Tarjeta,Completo
+205,2022-07-25,Tableta,5,467,0.05,1492,Maria,En linea,Efectivo,Completo
+206,2022-07-26,Telefono,5,246,0.15,2621,Juan,Local,Efectivo,Completo
+207,2022-07-27,Tableta,1,211,0.1,3084,Juan,Local,nan,Cancelado
+208,2022-07-28,Laptop,8,714,,4696,Maria,Local,Efectivo,Cancelado
+209,2022-07-29,Laptop,8,657,0.1,2723,Juan,En linea,Efectivo,Completo
+210,2022-07-30,Laptop,4,593,0.1,3688,Carlos,Local,nan,Pendiente
+211,2022-07-31,Laptop,7,604,0.15,3737,Carlos,Local,Efectivo,Completo
+212,2022-08-01,Tableta,3,574,,4636,Maria,En linea,Tarjeta,Pendiente
+213,2022-08-02,Laptop,6,935,0.1,843,Juan,En linea,Efectivo,Pendiente
+214,2022-08-03,Telefono,9,989,,4961,Carlos,En linea,nan,Pendiente
+215,2022-08-04,Telefono,1,370,0.05,2776,Carlos,Local,Tarjeta,Completo
+216,2022-08-05,Telefono,5,520,0.05,3701,Carlos,Local,Efectivo,Completo
+217,2022-08-06,Tableta,4,996,0.1,1388,Maria,En linea,Tarjeta,Pendiente
+218,2022-08-07,Laptop,8,806,,2543,Maria,Local,Tarjeta,Cancelado
+219,2022-08-08,Laptop,1,466,0.1,1841,Carlos,Local,Efectivo,Cancelado
+220,2022-08-09,Laptop,9,379,,4220,Carlos,Local,Efectivo,Cancelado
+221,2022-08-10,Tableta,6,382,,3383,Juan,En linea,nan,Pendiente
+222,2022-08-11,Telefono,4,139,0.15,4712,Juan,En linea,nan,Completo
+223,2022-08-12,Telefono,9,288,0.15,2915,Juan,Local,Tarjeta,Pendiente
+224,2022-08-13,Laptop,5,263,0.15,1617,Maria,Local,nan,Cancelado
+225,2022-08-14,Telefono,5,635,0.1,4763,Carlos,Local,Tarjeta,Completo
+226,2022-08-15,Telefono,5,635,0.15,3501,Maria,Local,Tarjeta,Pendiente
+227,2022-08-16,Tableta,1,103,0.15,2238,Carlos,En linea,nan,Pendiente
+228,2022-08-17,Tableta,1,934,0.05,1864,Juan,En linea,nan,Cancelado
+229,2022-08-18,Tableta,8,389,,3208,Juan,Local,nan,Pendiente
+230,2022-08-19,Tableta,8,532,,1424,Juan,Local,Efectivo,Completo
+231,2022-08-20,Laptop,6,570,0.15,651,Juan,En linea,Tarjeta,Cancelado
+232,2022-08-21,Tableta,4,280,,1085,Carlos,Local,Tarjeta,Cancelado
+233,2022-08-22,Telefono,2,347,0.05,1412,Juan,En linea,Tarjeta,Completo
+234,2022-08-23,Laptop,2,727,0.05,2821,Carlos,Local,nan,Cancelado
+235,2022-08-24,Telefono,9,378,0.15,995,Carlos,En linea,nan,Pendiente
+236,2022-08-25,Telefono,5,976,0.05,4295,Maria,Local,nan,Pendiente
+237,2022-08-26,Telefono,4,680,,2648,Juan,Local,nan,Cancelado
+238,2022-08-27,Tableta,1,962,0.1,1056,Juan,En linea,nan,Completo
+239,2022-08-28,Tableta,7,353,,2052,Maria,En linea,Efectivo,Pendiente
+240,2022-08-29,Laptop,3,280,0.1,2620,Carlos,Local,nan,Completo
+241,2022-08-30,Laptop,6,929,0.15,3585,Juan,Local,Tarjeta,Pendiente
+242,2022-08-31,Tableta,5,780,0.1,4004,Carlos,En linea,nan,Pendiente
+243,2022-09-01,Telefono,5,924,0.05,656,Maria,En linea,Tarjeta,Cancelado
+244,2022-09-02,Laptop,5,608,,1234,Carlos,Local,nan,Cancelado
+245,2022-09-03,Tableta,1,860,0.1,3776,Juan,Local,nan,Completo
+246,2022-09-04,Tableta,1,799,,654,Carlos,En linea,Tarjeta,Cancelado
+247,2022-09-05,Tableta,3,665,0.15,1496,Carlos,En linea,Tarjeta,Pendiente
+248,2022-09-06,Telefono,4,425,0.15,2794,Juan,En linea,Tarjeta,Pendiente
+249,2022-09-07,Tableta,5,456,0.05,3405,Juan,En linea,Tarjeta,Completo
+250,2022-09-08,Tableta,2,924,0.15,1677,Carlos,En linea,Efectivo,Completo
+251,2022-09-09,Tableta,8,749,0.1,653,Carlos,Local,Tarjeta,Pendiente
+252,2022-09-10,Tableta,2,779,0.15,4687,Maria,Local,nan,Cancelado
+253,2022-09-11,Laptop,9,490,0.05,2216,Juan,En linea,nan,Cancelado
+254,2022-09-12,Laptop,2,714,,3702,Carlos,Local,Efectivo,Completo
+255,2022-09-13,Tableta,9,184,,3357,Juan,Local,Tarjeta,Completo
+256,2022-09-14,Telefono,7,416,0.15,1286,Maria,En linea,nan,Pendiente
+257,2022-09-15,Laptop,8,311,0.1,4868,Carlos,Local,Efectivo,Pendiente
+258,2022-09-16,Tableta,2,614,0.05,4772,Carlos,Local,nan,Completo
+259,2022-09-17,Laptop,7,483,0.1,4267,Carlos,Local,Efectivo,Pendiente
+260,2022-09-18,Laptop,6,790,0.05,3378,Juan,En linea,Efectivo,Completo
+261,2022-09-19,Telefono,4,441,0.15,1142,Maria,En linea,Tarjeta,Completo
+262,2022-09-20,Tableta,7,914,0.05,1165,Juan,Local,Efectivo,Cancelado
+263,2022-09-21,Tableta,4,943,0.05,3926,Carlos,Local,nan,Completo
+264,2022-09-22,Telefono,2,137,0.15,4283,Maria,Local,nan,Pendiente
+265,2022-09-23,Telefono,7,610,0.1,4201,Carlos,Local,Tarjeta,Cancelado
+266,2022-09-24,Tableta,8,519,0.15,1569,Carlos,Local,Tarjeta,Cancelado
+267,2022-09-25,Tableta,2,850,0.05,2849,Juan,Local,Efectivo,Pendiente
+268,2022-09-26,Telefono,5,268,0.15,1712,Carlos,En linea,Tarjeta,Pendiente
+269,2022-09-27,Laptop,1,442,0.05,1652,Maria,Local,nan,Pendiente
+270,2022-09-28,Laptop,7,925,0.15,3011,Carlos,Local,nan,Completo
+271,2022-09-29,Telefono,8,405,,643,Carlos,En linea,Tarjeta,Cancelado
+272,2022-09-30,Laptop,6,641,,2989,Juan,Local,Tarjeta,Completo
+273,2022-10-01,Telefono,5,801,0.15,3728,Maria,Local,Tarjeta,Completo
+274,2022-10-02,Laptop,6,968,0.1,3705,Juan,Local,Efectivo,Completo
+275,2022-10-03,Laptop,2,636,0.05,4743,Carlos,Local,Efectivo,Completo
+276,2022-10-04,Tableta,1,211,,3642,Juan,En linea,nan,Cancelado
+277,2022-10-05,Tableta,7,510,0.1,3804,Juan,Local,Efectivo,Cancelado
+278,2022-10-06,Laptop,7,305,0.05,1857,Juan,En linea,Efectivo,Completo
+279,2022-10-07,Laptop,2,284,,3213,Juan,Local,Efectivo,Pendiente
+280,2022-10-08,Tableta,2,481,,4685,Carlos,Local,Efectivo,Cancelado
+281,2022-10-09,Tableta,1,595,0.15,1857,Carlos,En linea,nan,Completo
+282,2022-10-10,Tableta,8,478,0.05,4794,Maria,Local,Tarjeta,Pendiente
+283,2022-10-11,Telefono,8,146,0.1,3692,Juan,En linea,nan,Pendiente
+284,2022-10-12,Laptop,1,985,0.1,800,Juan,En linea,Efectivo,Completo
+285,2022-10-13,Tableta,8,839,0.1,1223,Maria,En linea,Tarjeta,Cancelado
+286,2022-10-14,Laptop,9,650,0.05,3510,Juan,Local,Tarjeta,Pendiente
+287,2022-10-15,Telefono,4,627,0.1,567,Maria,Local,Tarjeta,Cancelado
+288,2022-10-16,Telefono,1,603,0.1,4336,Carlos,Local,nan,Cancelado
+289,2022-10-17,Tableta,1,121,0.1,4493,Maria,Local,Tarjeta,Pendiente
+290,2022-10-18,Telefono,3,312,0.15,3006,Juan,En linea,nan,Completo
+291,2022-10-19,Laptop,5,409,0.15,2037,Maria,Local,nan,Pendiente
+292,2022-10-20,Tableta,5,760,0.05,897,Carlos,Local,Efectivo,Pendiente
+293,2022-10-21,Laptop,9,852,0.05,3857,Juan,En linea,Efectivo,Cancelado
+294,2022-10-22,Laptop,2,371,0.1,1663,Carlos,En linea,Tarjeta,Completo
+295,2022-10-23,Telefono,2,670,0.15,1055,Carlos,Local,Tarjeta,Cancelado
+296,2022-10-24,Telefono,6,898,,4161,Maria,En linea,Efectivo,Pendiente
+297,2022-10-25,Telefono,9,301,,2251,Carlos,En linea,nan,Completo
+298,2022-10-26,Telefono,1,131,0.1,3441,Juan,En linea,nan,Completo
+299,2022-10-27,Telefono,9,542,0.1,3157,Carlos,En linea,Efectivo,Completo
+300,2022-10-28,Tableta,9,261,0.15,3295,Carlos,En linea,nan,Completo
+301,2022-10-29,Laptop,9,866,0.15,2829,Maria,Local,Efectivo,Completo
+302,2022-10-30,Laptop,5,353,0.15,2459,Carlos,Local,Efectivo,Pendiente
+303,2022-10-31,Laptop,9,620,0.05,2101,Maria,Local,Tarjeta,Pendiente
+304,2022-11-01,Laptop,4,750,0.05,3293,Maria,Local,Tarjeta,Pendiente
+305,2022-11-02,Telefono,2,579,0.1,1980,Juan,Local,Efectivo,Cancelado
+306,2022-11-03,Laptop,6,109,0.05,1602,Juan,Local,Tarjeta,Completo
+307,2022-11-04,Tableta,4,825,0.15,3776,Juan,Local,Efectivo,Completo
+308,2022-11-05,Tableta,6,604,0.15,1799,Juan,En linea,nan,Pendiente
+309,2022-11-06,Laptop,3,884,0.05,4379,Maria,Local,nan,Completo
+310,2022-11-07,Laptop,6,935,,2035,Carlos,Local,nan,Cancelado
+311,2022-11-08,Tableta,2,659,0.1,577,Juan,Local,nan,Completo
+312,2022-11-09,Tableta,2,535,,3331,Juan,En linea,Efectivo,Completo
+313,2022-11-10,Telefono,9,210,0.1,3910,Juan,Local,nan,Cancelado
+314,2022-11-11,Tableta,7,252,,3221,Carlos,Local,nan,Pendiente
+315,2022-11-12,Telefono,3,734,0.05,4127,Juan,En linea,nan,Pendiente
+316,2022-11-13,Telefono,1,968,0.1,2032,Carlos,Local,nan,Completo
+317,2022-11-14,Telefono,8,201,0.1,737,Maria,Local,Efectivo,Cancelado
+318,2022-11-15,Telefono,6,852,0.1,2496,Maria,En linea,nan,Pendiente
+319,2022-11-16,Telefono,7,932,0.15,3927,Maria,Local,Tarjeta,Pendiente
+320,2022-11-17,Laptop,9,290,0.15,777,Carlos,En linea,Tarjeta,Pendiente
+321,2022-11-18,Tableta,5,828,,3589,Juan,Local,Tarjeta,Completo
+322,2022-11-19,Telefono,1,662,0.05,1023,Juan,Local,Tarjeta,Cancelado
+323,2022-11-20,Tableta,7,903,0.15,4775,Juan,Local,Tarjeta,Completo
+324,2022-11-21,Tableta,5,180,0.1,4718,Juan,En linea,Tarjeta,Pendiente
+325,2022-11-22,Telefono,3,588,0.15,3622,Juan,En linea,Efectivo,Cancelado
+326,2022-11-23,Laptop,9,994,0.05,2297,Carlos,En linea,Tarjeta,Completo
+327,2022-11-24,Telefono,1,187,0.15,2631,Maria,Local,nan,Pendiente
+328,2022-11-25,Laptop,1,293,0.1,1315,Juan,Local,Tarjeta,Pendiente
+329,2022-11-26,Tableta,1,203,,3194,Maria,En linea,Efectivo,Completo
+330,2022-11-27,Laptop,3,882,0.1,942,Carlos,En linea,Tarjeta,Pendiente
+331,2022-11-28,Laptop,6,195,0.05,3640,Carlos,Local,nan,Pendiente
+332,2022-11-29,Laptop,3,522,,642,Juan,Local,nan,Cancelado
+333,2022-11-30,Tableta,8,990,0.15,4787,Carlos,Local,Efectivo,Pendiente
+334,2022-12-01,Tableta,2,297,0.15,1910,Maria,Local,Efectivo,Completo
+335,2022-12-02,Laptop,9,100,0.15,4973,Juan,En linea,Efectivo,Cancelado
+336,2022-12-03,Laptop,3,506,,1034,Juan,Local,Efectivo,Completo
+337,2022-12-04,Telefono,5,477,0.1,2216,Maria,Local,Tarjeta,Pendiente
+338,2022-12-05,Laptop,8,266,,3864,Juan,Local,Tarjeta,Cancelado
+339,2022-12-06,Telefono,2,608,,1532,Juan,Local,nan,Cancelado
+340,2022-12-07,Laptop,6,737,0.05,3842,Maria,Local,Efectivo,Cancelado
+341,2022-12-08,Telefono,5,412,,1910,Juan,Local,Efectivo,Cancelado
+342,2022-12-09,Tableta,9,692,0.15,1672,Juan,Local,Tarjeta,Completo
+343,2022-12-10,Laptop,5,517,0.1,1388,Maria,En linea,Efectivo,Pendiente
+344,2022-12-11,Laptop,2,862,0.1,3838,Carlos,En linea,nan,Pendiente
+345,2022-12-12,Laptop,5,780,0.1,2141,Maria,En linea,nan,Cancelado
+346,2022-12-13,Laptop,4,576,0.15,971,Juan,Local,Efectivo,Pendiente
+347,2022-12-14,Telefono,7,172,0.15,3440,Maria,En linea,nan,Completo
+348,2022-12-15,Laptop,6,240,0.15,1046,Juan,Local,nan,Pendiente
+349,2022-12-16,Tableta,2,681,0.15,4097,Juan,Local,Tarjeta,Completo
+350,2022-12-17,Tableta,5,361,0.15,3325,Maria,Local,nan,Completo
+351,2022-12-18,Laptop,7,439,,4223,Juan,Local,Efectivo,Pendiente
+352,2022-12-19,Tableta,7,407,0.15,863,Carlos,En linea,Efectivo,Completo
+353,2022-12-20,Laptop,5,344,0.15,2666,Juan,Local,nan,Completo
+354,2022-12-21,Laptop,9,614,0.15,3809,Maria,Local,Efectivo,Completo
+355,2022-12-22,Tableta,4,436,0.15,1045,Carlos,En linea,Tarjeta,Completo
+356,2022-12-23,Laptop,3,674,0.1,3740,Carlos,En linea,nan,Cancelado
+357,2022-12-24,Tableta,4,660,0.15,2436,Juan,En linea,nan,Pendiente
+358,2022-12-25,Telefono,5,175,,1462,Maria,Local,nan,Cancelado
+359,2022-12-26,Laptop,6,979,,3505,Juan,En linea,Efectivo,Completo
+360,2022-12-27,Telefono,3,274,,4306,Juan,Local,Efectivo,Pendiente
+361,2022-12-28,Tableta,2,208,0.05,1382,Maria,Local,nan,Completo
+362,2022-12-29,Telefono,4,282,0.1,4340,Maria,En linea,Efectivo,Pendiente
+363,2022-12-30,Telefono,5,291,0.15,1370,Juan,En linea,Efectivo,Cancelado
+364,2022-12-31,Tableta,4,164,0.05,3485,Carlos,En linea,nan,Pendiente
+365,2023-01-01,Telefono,3,948,0.15,1365,Juan,Local,nan,Completo
+366,2023-01-02,Telefono,8,573,0.05,4809,Carlos,Local,Efectivo,Pendiente
+367,2023-01-03,Tableta,4,882,0.05,3703,Juan,Local,nan,Pendiente
+368,2023-01-04,Telefono,2,199,,3397,Maria,Local,nan,Cancelado
+369,2023-01-05,Tableta,2,643,,2744,Carlos,Local,nan,Completo
+370,2023-01-06,Telefono,1,963,0.05,518,Maria,Local,nan,Pendiente
+371,2023-01-07,Tableta,4,227,,1141,Maria,En linea,Efectivo,Cancelado
+372,2023-01-08,Tableta,9,551,0.05,3583,Maria,Local,nan,Pendiente
+373,2023-01-09,Telefono,7,468,0.1,829,Maria,En linea,Tarjeta,Completo
+374,2023-01-10,Telefono,7,950,,1365,Maria,En linea,nan,Pendiente
+375,2023-01-11,Telefono,7,142,,1273,Juan,En linea,Tarjeta,Pendiente
+376,2023-01-12,Laptop,8,983,,4987,Carlos,En linea,nan,Pendiente
+377,2023-01-13,Laptop,1,518,0.1,2854,Juan,En linea,Tarjeta,Pendiente
+378,2023-01-14,Laptop,8,587,0.05,3838,Juan,Local,Tarjeta,Completo
+379,2023-01-15,Tableta,4,177,0.15,4018,Juan,Local,nan,Cancelado
+380,2023-01-16,Telefono,4,925,,3442,Maria,Local,nan,Cancelado
+381,2023-01-17,Tableta,4,900,0.05,3067,Juan,Local,nan,Pendiente
+382,2023-01-18,Laptop,6,369,0.1,2174,Carlos,En linea,Tarjeta,Completo
+383,2023-01-19,Telefono,7,773,0.15,3183,Juan,En linea,Efectivo,Completo
+384,2023-01-20,Tableta,6,800,,3880,Maria,En linea,Efectivo,Completo
+385,2023-01-21,Telefono,1,858,0.1,1239,Carlos,Local,nan,Completo
+386,2023-01-22,Tableta,8,999,0.1,2045,Carlos,Local,Efectivo,Completo
+387,2023-01-23,Telefono,7,827,0.15,2759,Carlos,Local,Efectivo,Completo
+388,2023-01-24,Laptop,6,414,0.05,1635,Carlos,Local,nan,Pendiente
+389,2023-01-25,Laptop,6,950,,1373,Juan,En linea,Tarjeta,Cancelado
+390,2023-01-26,Telefono,5,988,,2800,Maria,En linea,nan,Cancelado
+391,2023-01-27,Tableta,6,267,0.05,1251,Carlos,Local,Efectivo,Pendiente
+392,2023-01-28,Laptop,9,438,0.05,1353,Carlos,Local,Tarjeta,Cancelado
+393,2023-01-29,Laptop,9,292,0.05,4232,Maria,En linea,Efectivo,Completo
+394,2023-01-30,Laptop,8,552,0.15,2783,Juan,En linea,Tarjeta,Completo
+395,2023-01-31,Telefono,9,382,0.15,1829,Carlos,En linea,Efectivo,Cancelado
+396,2023-02-01,Telefono,8,435,,977,Juan,En linea,nan,Completo
+397,2023-02-02,Tableta,8,489,0.15,3226,Juan,Local,Efectivo,Completo
+398,2023-02-03,Tableta,1,624,0.1,3591,Juan,En linea,Efectivo,Cancelado
+399,2023-02-04,Tableta,5,339,,4730,Juan,En linea,Tarjeta,Pendiente
+400,2023-02-05,Telefono,4,931,0.15,1769,Carlos,En linea,Efectivo,Cancelado
+401,2023-02-06,Telefono,2,582,0.05,4681,Carlos,En linea,nan,Cancelado
+402,2023-02-07,Tableta,8,758,0.1,3103,Juan,Local,nan,Cancelado
+403,2023-02-08,Tableta,3,815,0.05,1969,Juan,Local,nan,Cancelado
+404,2023-02-09,Telefono,4,691,,877,Maria,Local,Tarjeta,Pendiente
+405,2023-02-10,Tableta,7,990,0.05,2180,Maria,Local,Tarjeta,Pendiente
+406,2023-02-11,Laptop,9,654,0.15,741,Maria,Local,Efectivo,Completo
+407,2023-02-12,Telefono,2,557,0.15,1419,Carlos,Local,Efectivo,Completo
+408,2023-02-13,Tableta,3,188,,569,Maria,En linea,Efectivo,Cancelado
+409,2023-02-14,Telefono,4,759,0.05,4424,Carlos,En linea,Tarjeta,Completo
+410,2023-02-15,Laptop,1,194,,2586,Carlos,En linea,Tarjeta,Pendiente
+411,2023-02-16,Telefono,7,551,0.05,2507,Carlos,En linea,Efectivo,Completo
+412,2023-02-17,Telefono,2,527,0.1,1300,Carlos,Local,Tarjeta,Completo
+413,2023-02-18,Telefono,5,250,0.15,3279,Maria,En linea,Tarjeta,Completo
+414,2023-02-19,Telefono,1,613,,1255,Juan,Local,nan,Cancelado
+415,2023-02-20,Laptop,3,475,0.1,2495,Juan,En linea,nan,Completo
+416,2023-02-21,Telefono,2,121,0.1,1821,Juan,En linea,Efectivo,Pendiente
+417,2023-02-22,Telefono,1,982,,2830,Maria,En linea,Efectivo,Pendiente
+418,2023-02-23,Tableta,7,412,,609,Juan,Local,nan,Pendiente
+419,2023-02-24,Telefono,5,939,0.1,1516,Maria,En linea,Tarjeta,Pendiente
+420,2023-02-25,Tableta,1,618,0.05,4365,Maria,Local,Efectivo,Completo
+421,2023-02-26,Laptop,6,305,0.1,524,Maria,Local,Efectivo,Cancelado
+422,2023-02-27,Laptop,5,474,,3338,Juan,En linea,Efectivo,Pendiente
+423,2023-02-28,Laptop,3,550,0.1,1237,Juan,Local,Tarjeta,Pendiente
+424,2023-03-01,Laptop,7,725,0.05,679,Juan,Local,nan,Cancelado
+425,2023-03-02,Tableta,9,883,0.15,731,Carlos,En linea,Efectivo,Cancelado
+426,2023-03-03,Telefono,9,694,0.15,2417,Maria,En linea,nan,Pendiente
+427,2023-03-04,Laptop,9,278,0.1,842,Carlos,En linea,nan,Pendiente
+428,2023-03-05,Telefono,2,309,0.05,3123,Maria,En linea,Tarjeta,Cancelado
+429,2023-03-06,Tableta,3,599,0.15,954,Juan,En linea,Tarjeta,Pendiente
+430,2023-03-07,Tableta,7,563,0.1,4884,Maria,En linea,Tarjeta,Pendiente
+431,2023-03-08,Tableta,5,939,0.1,2776,Maria,Local,Tarjeta,Completo
+432,2023-03-09,Laptop,2,223,0.05,1095,Carlos,En linea,Tarjeta,Cancelado
+433,2023-03-10,Telefono,3,212,,4374,Maria,En linea,Tarjeta,Completo
+434,2023-03-11,Telefono,6,111,0.1,4997,Juan,Local,Efectivo,Completo
+435,2023-03-12,Telefono,7,225,,3169,Maria,En linea,nan,Cancelado
+436,2023-03-13,Tableta,9,664,,2635,Maria,Local,Tarjeta,Completo
+437,2023-03-14,Laptop,1,430,0.15,4464,Maria,En linea,Efectivo,Pendiente
+438,2023-03-15,Tableta,7,382,,2065,Carlos,En linea,nan,Completo
+439,2023-03-16,Tableta,8,239,0.05,808,Maria,Local,Tarjeta,Cancelado
+440,2023-03-17,Telefono,3,500,0.15,842,Maria,En linea,Tarjeta,Pendiente
+441,2023-03-18,Tableta,4,196,0.15,935,Carlos,Local,Efectivo,Pendiente
+442,2023-03-19,Telefono,6,616,0.15,676,Carlos,En linea,nan,Pendiente
+443,2023-03-20,Laptop,7,668,0.1,638,Carlos,En linea,Tarjeta,Pendiente
+444,2023-03-21,Telefono,4,945,0.1,693,Carlos,Local,nan,Completo
+445,2023-03-22,Laptop,8,168,,3757,Juan,En linea,Efectivo,Completo
+446,2023-03-23,Telefono,5,217,0.15,3735,Juan,En linea,Tarjeta,Pendiente
+447,2023-03-24,Tableta,1,987,0.15,1442,Maria,Local,nan,Cancelado
+448,2023-03-25,Tableta,4,158,0.05,4379,Juan,En linea,Efectivo,Pendiente
+449,2023-03-26,Laptop,3,132,,3613,Maria,Local,Efectivo,Completo
+450,2023-03-27,Laptop,9,417,0.05,3462,Juan,En linea,Tarjeta,Pendiente
+451,2023-03-28,Laptop,8,149,,1453,Carlos,Local,nan,Completo
+452,2023-03-29,Telefono,1,979,,1802,Carlos,En linea,Tarjeta,Pendiente
+453,2023-03-30,Telefono,6,588,0.1,3881,Juan,Local,Tarjeta,Cancelado
+454,2023-03-31,Laptop,9,118,0.1,3380,Juan,Local,nan,Pendiente
+455,2023-04-01,Tableta,7,825,0.05,2687,Maria,En linea,nan,Cancelado
+456,2023-04-02,Telefono,4,296,,1045,Maria,En linea,nan,Cancelado
+457,2023-04-03,Telefono,1,990,0.15,2427,Maria,Local,Efectivo,Pendiente
+458,2023-04-04,Telefono,2,549,0.1,4652,Carlos,En linea,Efectivo,Cancelado
+459,2023-04-05,Laptop,5,658,0.15,504,Carlos,Local,nan,Cancelado
+460,2023-04-06,Laptop,5,778,0.05,3981,Carlos,En linea,Efectivo,Completo
+461,2023-04-07,Laptop,8,551,0.1,3753,Carlos,En linea,Tarjeta,Completo
+462,2023-04-08,Laptop,6,388,0.1,1862,Maria,Local,nan,Cancelado
+463,2023-04-09,Laptop,8,240,,2320,Carlos,Local,Tarjeta,Pendiente
+464,2023-04-10,Tableta,2,183,0.05,3163,Carlos,En linea,nan,Cancelado
+465,2023-04-11,Tableta,3,793,,3438,Carlos,En linea,Tarjeta,Pendiente
+466,2023-04-12,Laptop,6,490,0.1,1773,Carlos,En linea,nan,Completo
+467,2023-04-13,Telefono,3,690,0.05,3826,Juan,En linea,Tarjeta,Pendiente
+468,2023-04-14,Laptop,6,314,0.1,4159,Maria,En linea,nan,Cancelado
+469,2023-04-15,Tableta,6,625,0.05,3445,Maria,Local,nan,Cancelado
+470,2023-04-16,Tableta,2,314,0.1,3518,Carlos,En linea,Efectivo,Cancelado
+471,2023-04-17,Telefono,7,502,0.15,1631,Juan,En linea,Tarjeta,Cancelado
+472,2023-04-18,Tableta,2,227,0.15,3136,Maria,Local,Efectivo,Cancelado
+473,2023-04-19,Laptop,6,921,,3529,Maria,Local,Tarjeta,Pendiente
+474,2023-04-20,Telefono,1,576,0.15,3519,Carlos,Local,Efectivo,Cancelado
+475,2023-04-21,Laptop,3,859,0.1,4877,Carlos,En linea,nan,Completo
+476,2023-04-22,Laptop,2,503,0.1,3659,Maria,Local,Efectivo,Cancelado
+477,2023-04-23,Telefono,7,128,0.15,753,Maria,Local,Efectivo,Pendiente
+478,2023-04-24,Laptop,4,891,,828,Juan,Local,nan,Cancelado
+479,2023-04-25,Tableta,8,437,0.15,3091,Maria,Local,Efectivo,Cancelado
+480,2023-04-26,Laptop,6,930,0.05,3330,Maria,En linea,nan,Pendiente
+481,2023-04-27,Telefono,4,813,0.05,3544,Carlos,En linea,Tarjeta,Cancelado
+482,2023-04-28,Telefono,5,460,0.05,1920,Maria,En linea,Efectivo,Pendiente
+483,2023-04-29,Telefono,9,668,0.15,3901,Carlos,Local,nan,Cancelado
+484,2023-04-30,Laptop,7,491,0.15,3392,Maria,Local,nan,Completo
+485,2023-05-01,Telefono,9,317,0.15,1154,Maria,Local,Efectivo,Cancelado
+486,2023-05-02,Telefono,7,673,0.05,1259,Maria,Local,Tarjeta,Pendiente
+487,2023-05-03,Laptop,1,768,,2298,Juan,Local,Efectivo,Completo
+488,2023-05-04,Tableta,8,301,0.1,3471,Carlos,Local,nan,Pendiente
+489,2023-05-05,Laptop,4,116,0.15,3926,Juan,En linea,Tarjeta,Cancelado
+490,2023-05-06,Telefono,3,421,,754,Maria,En linea,Efectivo,Completo
+491,2023-05-07,Telefono,7,617,0.1,4323,Juan,Local,nan,Pendiente
+492,2023-05-08,Laptop,3,669,0.1,2376,Carlos,En linea,Efectivo,Completo
+493,2023-05-09,Tableta,8,424,0.1,3257,Maria,Local,Tarjeta,Completo
+494,2023-05-10,Telefono,6,511,,3124,Juan,Local,Tarjeta,Pendiente
+495,2023-05-11,Telefono,5,417,,4621,Juan,En linea,Tarjeta,Completo
+496,2023-05-12,Telefono,4,780,0.05,3504,Carlos,Local,Tarjeta,Pendiente
+497,2023-05-13,Laptop,8,181,,4234,Juan,En linea,Tarjeta,Completo
+498,2023-05-14,Telefono,8,573,,1744,Carlos,Local,Efectivo,Completo
+499,2023-05-15,Tableta,1,567,,1508,Maria,Local,Tarjeta,Completo
+500,2023-05-16,Telefono,9,524,0.1,4814,Maria,En linea,Tarjeta,Cancelado
+501,2023-05-17,Telefono,5,830,0.15,2010,Juan,Local,nan,Cancelado
+502,2023-05-18,Tableta,4,788,0.05,2459,Maria,Local,Tarjeta,Pendiente
+503,2023-05-19,Telefono,6,303,0.15,3008,Maria,Local,nan,Completo
+504,2023-05-20,Laptop,6,682,0.15,3182,Juan,En linea,nan,Pendiente
+505,2023-05-21,Laptop,2,486,,1489,Maria,Local,nan,Cancelado
+506,2023-05-22,Laptop,8,877,0.05,4784,Juan,Local,Efectivo,Cancelado
+507,2023-05-23,Tableta,7,197,0.15,754,Carlos,Local,Efectivo,Cancelado
+508,2023-05-24,Telefono,1,444,0.15,4663,Carlos,En linea,nan,Cancelado
+509,2023-05-25,Laptop,5,902,0.05,4952,Carlos,En linea,Efectivo,Pendiente
+510,2023-05-26,Tableta,6,307,,755,Juan,En linea,Tarjeta,Completo
+511,2023-05-27,Telefono,4,613,0.15,1507,Juan,En linea,Efectivo,Pendiente
+512,2023-05-28,Tableta,2,735,0.1,2255,Maria,En linea,Tarjeta,Completo
+513,2023-05-29,Laptop,4,891,0.15,3071,Maria,Local,Tarjeta,Cancelado
+514,2023-05-30,Laptop,1,685,0.1,4408,Maria,En linea,Efectivo,Completo
+515,2023-05-31,Laptop,7,265,,3497,Maria,En linea,Efectivo,Cancelado
+516,2023-06-01,Tableta,2,121,0.15,3303,Maria,Local,nan,Pendiente
+517,2023-06-02,Tableta,2,253,0.05,4265,Juan,En linea,Efectivo,Completo
+518,2023-06-03,Laptop,9,538,0.05,4879,Juan,Local,Efectivo,Pendiente
+519,2023-06-04,Tableta,5,394,0.15,3883,Carlos,En linea,Efectivo,Cancelado
+520,2023-06-05,Laptop,2,318,,598,Carlos,Local,Tarjeta,Pendiente
+521,2023-06-06,Laptop,9,768,,696,Carlos,Local,Tarjeta,Cancelado
+522,2023-06-07,Telefono,9,594,0.05,3029,Carlos,En linea,Tarjeta,Cancelado
+523,2023-06-08,Tableta,1,329,0.15,1377,Juan,En linea,nan,Cancelado
+524,2023-06-09,Laptop,3,119,,2368,Juan,Local,nan,Pendiente
+525,2023-06-10,Laptop,4,652,0.05,3165,Juan,Local,nan,Pendiente
+526,2023-06-11,Tableta,7,247,0.1,1888,Maria,Local,Tarjeta,Completo
+527,2023-06-12,Telefono,4,207,0.15,2915,Maria,Local,Efectivo,Completo
+528,2023-06-13,Telefono,2,502,0.1,1069,Carlos,Local,nan,Pendiente
+529,2023-06-14,Laptop,7,695,0.1,3137,Maria,Local,nan,Pendiente
+530,2023-06-15,Tableta,6,582,,1565,Juan,Local,Tarjeta,Pendiente
+531,2023-06-16,Telefono,3,466,,921,Carlos,En linea,nan,Pendiente
+532,2023-06-17,Tableta,6,933,,3383,Carlos,Local,Efectivo,Cancelado
+533,2023-06-18,Tableta,6,513,0.15,1704,Maria,En linea,Tarjeta,Cancelado
+534,2023-06-19,Laptop,5,408,0.1,1044,Carlos,En linea,Tarjeta,Cancelado
+535,2023-06-20,Telefono,4,901,0.15,4666,Maria,Local,Efectivo,Pendiente
+536,2023-06-21,Laptop,1,934,,4139,Maria,Local,Efectivo,Cancelado
+537,2023-06-22,Telefono,6,233,0.1,1723,Carlos,En linea,Efectivo,Cancelado
+538,2023-06-23,Telefono,2,818,0.15,3672,Maria,Local,nan,Completo
+539,2023-06-24,Telefono,3,382,0.15,1267,Maria,Local,Efectivo,Completo
+540,2023-06-25,Telefono,8,877,0.05,4157,Maria,En linea,Tarjeta,Cancelado
+541,2023-06-26,Telefono,6,172,0.15,1154,Maria,En linea,Efectivo,Cancelado
+542,2023-06-27,Tableta,3,580,,2946,Carlos,En linea,Tarjeta,Cancelado
+543,2023-06-28,Laptop,7,451,0.15,720,Juan,Local,Tarjeta,Pendiente
+544,2023-06-29,Tableta,4,659,0.1,4166,Juan,Local,nan,Completo
+545,2023-06-30,Telefono,9,425,0.15,4777,Maria,En linea,Efectivo,Completo
+546,2023-07-01,Laptop,5,844,0.05,4902,Maria,Local,nan,Completo
+547,2023-07-02,Telefono,3,542,0.1,3069,Maria,En linea,Efectivo,Cancelado
+548,2023-07-03,Laptop,2,199,0.1,1513,Juan,Local,Efectivo,Pendiente
+549,2023-07-04,Tableta,2,158,0.05,2551,Maria,En linea,Efectivo,Completo
+550,2023-07-05,Laptop,3,607,,4485,Carlos,Local,Efectivo,Completo
+551,2023-07-06,Laptop,2,357,0.1,4810,Carlos,En linea,Efectivo,Pendiente
+552,2023-07-07,Laptop,4,512,,3519,Carlos,Local,Tarjeta,Cancelado
+553,2023-07-08,Laptop,2,551,0.1,4181,Juan,Local,Tarjeta,Cancelado
+554,2023-07-09,Laptop,9,164,0.1,1943,Maria,En linea,Efectivo,Completo
+555,2023-07-10,Telefono,2,694,,4696,Maria,Local,Tarjeta,Completo
+556,2023-07-11,Laptop,9,253,0.1,3510,Maria,Local,nan,Pendiente
+557,2023-07-12,Laptop,6,365,,1072,Juan,En linea,nan,Completo
+558,2023-07-13,Tableta,1,920,0.05,1832,Juan,Local,nan,Pendiente
+559,2023-07-14,Laptop,4,178,,4502,Juan,Local,Efectivo,Completo
+560,2023-07-15,Tableta,1,414,0.05,3634,Juan,Local,Efectivo,Completo
+561,2023-07-16,Telefono,6,761,0.1,4586,Carlos,En linea,Tarjeta,Completo
+562,2023-07-17,Laptop,4,659,,725,Juan,En linea,Tarjeta,Cancelado
+563,2023-07-18,Tableta,3,990,0.1,4700,Juan,En linea,Tarjeta,Pendiente
+564,2023-07-19,Tableta,3,347,,2497,Juan,En linea,nan,Pendiente
+565,2023-07-20,Telefono,9,889,0.05,1271,Maria,En linea,nan,Cancelado
+566,2023-07-21,Laptop,6,967,0.05,933,Maria,Local,nan,Cancelado
+567,2023-07-22,Laptop,9,709,,3599,Maria,Local,nan,Cancelado
+568,2023-07-23,Tableta,5,513,0.05,3229,Carlos,En linea,Tarjeta,Pendiente
+569,2023-07-24,Laptop,2,124,0.1,3907,Carlos,Local,Efectivo,Completo
+570,2023-07-25,Tableta,8,383,0.1,3640,Juan,Local,Efectivo,Cancelado
+571,2023-07-26,Laptop,5,548,0.15,1365,Maria,Local,nan,Cancelado
+572,2023-07-27,Tableta,2,980,0.05,3293,Carlos,Local,Efectivo,Cancelado
+573,2023-07-28,Laptop,4,400,0.1,3411,Maria,En linea,Efectivo,Completo
+574,2023-07-29,Telefono,9,167,,2915,Carlos,En linea,Efectivo,Completo
+575,2023-07-30,Laptop,4,106,0.05,750,Carlos,Local,nan,Cancelado
+576,2023-07-31,Laptop,4,916,0.1,4257,Juan,Local,Tarjeta,Completo
+577,2023-08-01,Telefono,2,236,0.05,1418,Juan,En linea,Tarjeta,Cancelado
+578,2023-08-02,Laptop,6,263,,1673,Carlos,Local,Efectivo,Completo
+579,2023-08-03,Telefono,2,182,0.1,3703,Juan,Local,Tarjeta,Pendiente
+580,2023-08-04,Laptop,7,996,0.15,932,Carlos,Local,Tarjeta,Pendiente
+581,2023-08-05,Tableta,3,749,0.15,1335,Carlos,En linea,nan,Completo
+582,2023-08-06,Tableta,3,519,0.05,2746,Maria,En linea,nan,Pendiente
+583,2023-08-07,Laptop,5,172,,2762,Juan,Local,Efectivo,Pendiente
+584,2023-08-08,Laptop,3,336,0.1,1397,Juan,Local,Efectivo,Pendiente
+585,2023-08-09,Laptop,2,145,,4132,Juan,Local,Efectivo,Cancelado
+586,2023-08-10,Tableta,9,717,0.1,4315,Maria,Local,nan,Completo
+587,2023-08-11,Laptop,2,899,0.05,746,Maria,Local,Tarjeta,Completo
+588,2023-08-12,Tableta,2,361,0.1,2929,Maria,Local,nan,Completo
+589,2023-08-13,Telefono,8,275,,1490,Juan,En linea,nan,Pendiente
+590,2023-08-14,Tableta,9,265,,3810,Juan,En linea,Tarjeta,Cancelado
+591,2023-08-15,Tableta,7,756,0.05,1426,Juan,Local,Tarjeta,Completo
+592,2023-08-16,Telefono,3,941,,3938,Maria,En linea,Efectivo,Pendiente
+593,2023-08-17,Tableta,9,469,0.1,3107,Maria,Local,Tarjeta,Cancelado
+594,2023-08-18,Laptop,3,894,0.05,1574,Carlos,Local,Tarjeta,Cancelado
+595,2023-08-19,Laptop,5,153,0.1,4522,Maria,En linea,Tarjeta,Completo
+596,2023-08-20,Tableta,9,789,,4299,Carlos,En linea,Tarjeta,Completo
+597,2023-08-21,Laptop,3,518,0.05,3651,Juan,Local,Efectivo,Pendiente
+598,2023-08-22,Tableta,7,855,0.1,3938,Maria,Local,Efectivo,Completo
+599,2023-08-23,Laptop,1,606,,3991,Juan,En linea,Tarjeta,Pendiente
+600,2023-08-24,Laptop,4,440,,1206,Juan,En linea,Tarjeta,Cancelado
+601,2023-08-25,Tableta,4,226,0.15,3564,Juan,Local,Efectivo,Cancelado
+602,2023-08-26,Laptop,7,508,,1253,Juan,Local,Efectivo,Cancelado
+603,2023-08-27,Tableta,8,466,0.1,1087,Maria,Local,Tarjeta,Cancelado
+604,2023-08-28,Laptop,1,370,0.05,1834,Juan,En linea,nan,Completo
+605,2023-08-29,Laptop,5,743,0.15,2347,Carlos,Local,Efectivo,Completo
+606,2023-08-30,Telefono,7,704,,4434,Maria,En linea,Efectivo,Pendiente
+607,2023-08-31,Telefono,4,478,,4426,Juan,Local,Efectivo,Pendiente
+608,2023-09-01,Tableta,4,172,,3817,Maria,En linea,Tarjeta,Pendiente
+609,2023-09-02,Telefono,4,347,0.1,4520,Carlos,En linea,Tarjeta,Pendiente
+610,2023-09-03,Tableta,6,959,0.15,3655,Juan,En linea,Efectivo,Pendiente
+611,2023-09-04,Telefono,7,884,0.1,4802,Carlos,En linea,Tarjeta,Cancelado
+612,2023-09-05,Laptop,2,142,0.15,2698,Juan,Local,Tarjeta,Cancelado
+613,2023-09-06,Tableta,5,476,0.05,664,Carlos,En linea,Efectivo,Cancelado
+614,2023-09-07,Tableta,4,140,0.1,2498,Juan,En linea,Tarjeta,Pendiente
+615,2023-09-08,Laptop,3,269,0.1,3557,Maria,En linea,nan,Cancelado
+616,2023-09-09,Tableta,7,311,0.05,2584,Juan,Local,Tarjeta,Cancelado
+617,2023-09-10,Tableta,6,592,0.15,4928,Maria,Local,Tarjeta,Cancelado
+618,2023-09-11,Telefono,7,779,,902,Juan,Local,Efectivo,Cancelado
+619,2023-09-12,Tableta,5,138,0.05,913,Juan,Local,Efectivo,Completo
+620,2023-09-13,Laptop,6,468,,544,Carlos,Local,nan,Pendiente
+621,2023-09-14,Telefono,5,856,,4657,Carlos,Local,Tarjeta,Pendiente
+622,2023-09-15,Telefono,7,250,0.05,2967,Carlos,En linea,nan,Completo
+623,2023-09-16,Laptop,2,210,0.15,1367,Juan,En linea,nan,Cancelado
+624,2023-09-17,Laptop,5,579,,518,Juan,En linea,Efectivo,Cancelado
+625,2023-09-18,Telefono,6,535,0.05,864,Juan,Local,Tarjeta,Cancelado
+626,2023-09-19,Tableta,6,146,0.1,4332,Maria,En linea,Efectivo,Pendiente
+627,2023-09-20,Telefono,5,674,0.1,1079,Maria,En linea,nan,Pendiente
+628,2023-09-21,Laptop,7,836,0.1,1045,Juan,Local,nan,Pendiente
+629,2023-09-22,Telefono,8,465,0.05,4650,Carlos,En linea,Efectivo,Pendiente
+630,2023-09-23,Laptop,7,168,0.1,3539,Carlos,Local,Efectivo,Pendiente
+631,2023-09-24,Telefono,5,398,,4637,Carlos,En linea,Efectivo,Completo
+632,2023-09-25,Tableta,1,901,0.1,4544,Juan,Local,Efectivo,Pendiente
+633,2023-09-26,Telefono,5,395,0.1,4826,Carlos,Local,Efectivo,Cancelado
+634,2023-09-27,Telefono,2,302,,952,Juan,Local,nan,Pendiente
+635,2023-09-28,Laptop,5,160,0.1,4461,Maria,En linea,Efectivo,Completo
+636,2023-09-29,Laptop,5,929,,1881,Carlos,En linea,Tarjeta,Cancelado
+637,2023-09-30,Laptop,2,413,0.1,1967,Maria,Local,nan,Completo
+638,2023-10-01,Telefono,5,260,,3238,Carlos,Local,nan,Cancelado
+639,2023-10-02,Tableta,4,430,0.1,1716,Juan,En linea,Tarjeta,Pendiente
+640,2023-10-03,Laptop,1,627,,1380,Juan,En linea,Tarjeta,Completo
+641,2023-10-04,Laptop,3,437,0.05,4314,Juan,Local,nan,Cancelado
+642,2023-10-05,Telefono,1,705,,3649,Juan,En linea,Efectivo,Pendiente
+643,2023-10-06,Laptop,5,403,0.1,584,Carlos,En linea,nan,Cancelado
+644,2023-10-07,Tableta,4,602,0.1,4644,Maria,En linea,nan,Completo
+645,2023-10-08,Tableta,7,749,0.15,1668,Juan,Local,Tarjeta,Completo
+646,2023-10-09,Laptop,5,437,,4664,Carlos,Local,nan,Completo
+647,2023-10-10,Laptop,4,649,0.05,3629,Maria,En linea,Efectivo,Completo
+648,2023-10-11,Telefono,2,738,,4145,Juan,Local,Tarjeta,Pendiente
+649,2023-10-12,Tableta,4,374,,3026,Maria,En linea,nan,Cancelado
+650,2023-10-13,Tableta,2,263,0.05,3367,Juan,En linea,nan,Pendiente
+651,2023-10-14,Laptop,8,542,,4016,Maria,Local,Efectivo,Completo
+652,2023-10-15,Telefono,3,418,0.05,3867,Maria,Local,nan,Cancelado
+653,2023-10-16,Tableta,9,688,0.05,2694,Juan,Local,nan,Completo
+654,2023-10-17,Tableta,4,603,,4055,Carlos,En linea,nan,Pendiente
+655,2023-10-18,Telefono,6,785,,945,Maria,En linea,nan,Pendiente
+656,2023-10-19,Telefono,5,486,0.1,4126,Juan,Local,Efectivo,Pendiente
+657,2023-10-20,Tableta,1,969,0.1,4516,Maria,Local,nan,Cancelado
+658,2023-10-21,Tableta,9,932,0.15,4375,Maria,Local,nan,Cancelado
+659,2023-10-22,Telefono,1,987,0.15,3837,Carlos,En linea,nan,Completo
+660,2023-10-23,Tableta,8,702,,761,Maria,En linea,Tarjeta,Cancelado
+661,2023-10-24,Laptop,9,849,0.05,2348,Maria,En linea,Efectivo,Cancelado
+662,2023-10-25,Laptop,9,875,0.15,4525,Juan,Local,Tarjeta,Pendiente
+663,2023-10-26,Telefono,1,790,,2766,Juan,Local,Tarjeta,Completo
+664,2023-10-27,Telefono,2,593,0.15,591,Carlos,En linea,Efectivo,Pendiente
+665,2023-10-28,Telefono,1,589,0.05,4722,Maria,Local,Tarjeta,Completo
+666,2023-10-29,Laptop,2,820,,4675,Maria,Local,Tarjeta,Completo
+667,2023-10-30,Tableta,8,172,0.05,3809,Maria,Local,Tarjeta,Cancelado
+668,2023-10-31,Laptop,5,608,,1482,Carlos,Local,Efectivo,Pendiente
+669,2023-11-01,Tableta,7,489,0.15,3943,Maria,En linea,nan,Cancelado
+670,2023-11-02,Laptop,2,718,0.1,3033,Juan,Local,Efectivo,Cancelado
+671,2023-11-03,Tableta,8,956,0.15,1193,Carlos,En linea,Efectivo,Cancelado
+672,2023-11-04,Laptop,6,394,0.15,4620,Juan,En linea,Efectivo,Completo
+673,2023-11-05,Telefono,8,468,0.1,655,Juan,Local,Tarjeta,Pendiente
+674,2023-11-06,Laptop,1,895,0.1,4088,Carlos,En linea,nan,Pendiente
+675,2023-11-07,Tableta,1,964,,2312,Juan,En linea,Efectivo,Cancelado
+676,2023-11-08,Laptop,7,793,,4614,Maria,Local,Efectivo,Completo
+677,2023-11-09,Laptop,8,648,0.05,1907,Carlos,En linea,nan,Pendiente
+678,2023-11-10,Laptop,3,748,0.05,1716,Juan,En linea,nan,Pendiente
+679,2023-11-11,Telefono,5,949,0.15,1910,Maria,En linea,nan,Cancelado
+680,2023-11-12,Laptop,1,667,0.1,3997,Maria,En linea,Tarjeta,Completo
+681,2023-11-13,Telefono,7,286,0.05,4872,Juan,En linea,nan,Cancelado
+682,2023-11-14,Telefono,5,952,0.15,1051,Maria,En linea,Tarjeta,Pendiente
+683,2023-11-15,Laptop,8,869,0.1,3894,Carlos,En linea,Efectivo,Completo
+684,2023-11-16,Laptop,8,544,,1676,Juan,En linea,Tarjeta,Cancelado
+685,2023-11-17,Laptop,9,669,0.15,4832,Maria,Local,nan,Pendiente
+686,2023-11-18,Tableta,7,462,,1497,Maria,Local,Tarjeta,Cancelado
+687,2023-11-19,Laptop,1,222,0.05,4576,Juan,Local,nan,Cancelado
+688,2023-11-20,Telefono,3,287,0.05,3231,Juan,En linea,Tarjeta,Cancelado
+689,2023-11-21,Laptop,8,841,0.1,4437,Juan,En linea,Efectivo,Completo
+690,2023-11-22,Tableta,3,779,0.15,4552,Juan,En linea,Tarjeta,Pendiente
+691,2023-11-23,Laptop,8,519,,872,Carlos,Local,Efectivo,Pendiente
+692,2023-11-24,Tableta,1,725,0.1,2748,Juan,Local,nan,Pendiente
+693,2023-11-25,Tableta,5,351,0.05,1348,Carlos,Local,Efectivo,Pendiente
+694,2023-11-26,Laptop,4,718,0.05,3056,Carlos,En linea,nan,Completo
+695,2023-11-27,Telefono,5,648,0.15,2822,Juan,Local,nan,Cancelado
+696,2023-11-28,Tableta,8,434,,1003,Carlos,Local,Efectivo,Pendiente
+697,2023-11-29,Laptop,4,191,0.15,3689,Juan,En linea,Efectivo,Completo
+698,2023-11-30,Laptop,4,629,,1202,Juan,Local,Tarjeta,Cancelado
+699,2023-12-01,Telefono,3,965,,4125,Maria,En linea,Tarjeta,Completo
+700,2023-12-02,Tableta,7,162,0.15,814,Juan,Local,Efectivo,Completo
+701,2023-12-03,Tableta,3,761,0.1,2876,Maria,En linea,Efectivo,Pendiente
+702,2023-12-04,Laptop,3,611,0.15,1540,Carlos,En linea,Efectivo,Pendiente
+703,2023-12-05,Laptop,5,238,0.15,4878,Maria,En linea,Efectivo,Cancelado
+704,2023-12-06,Telefono,5,797,0.05,3490,Carlos,En linea,nan,Cancelado
+705,2023-12-07,Telefono,6,284,0.05,757,Juan,En linea,Efectivo,Pendiente
+706,2023-12-08,Tableta,8,304,0.15,1074,Carlos,Local,Efectivo,Completo
+707,2023-12-09,Tableta,6,871,0.15,2052,Carlos,En linea,Efectivo,Pendiente
+708,2023-12-10,Laptop,1,313,0.05,1257,Juan,En linea,Efectivo,Cancelado
+709,2023-12-11,Tableta,8,355,,3310,Carlos,En linea,nan,Completo
+710,2023-12-12,Telefono,8,234,0.15,1604,Juan,En linea,Tarjeta,Completo
+711,2023-12-13,Telefono,9,672,0.1,3959,Maria,Local,Tarjeta,Completo
+712,2023-12-14,Laptop,9,974,0.1,4492,Juan,En linea,Tarjeta,Pendiente
+713,2023-12-15,Telefono,2,921,0.1,703,Juan,Local,Tarjeta,Pendiente
+714,2023-12-16,Telefono,2,187,0.15,3275,Carlos,En linea,Tarjeta,Cancelado
+715,2023-12-17,Telefono,3,935,,2832,Maria,En linea,nan,Completo
+716,2023-12-18,Telefono,1,306,,2492,Juan,Local,Tarjeta,Completo
+717,2023-12-19,Laptop,4,228,0.05,2743,Maria,Local,nan,Pendiente
+718,2023-12-20,Laptop,4,922,0.15,806,Maria,Local,nan,Cancelado
+719,2023-12-21,Tableta,9,102,,2187,Carlos,En linea,Tarjeta,Cancelado
+720,2023-12-22,Telefono,9,853,0.15,4609,Juan,Local,Tarjeta,Completo
+721,2023-12-23,Tableta,9,220,0.05,2360,Carlos,En linea,Tarjeta,Pendiente
+722,2023-12-24,Laptop,7,484,0.05,2461,Juan,Local,Efectivo,Completo
+723,2023-12-25,Laptop,2,713,0.05,1222,Maria,Local,nan,Pendiente
+724,2023-12-26,Laptop,5,137,0.1,1279,Juan,En linea,Tarjeta,Cancelado
+725,2023-12-27,Laptop,4,440,0.15,1028,Juan,Local,Efectivo,Completo
+726,2023-12-28,Laptop,8,744,0.05,843,Maria,Local,nan,Completo
+727,2023-12-29,Laptop,2,813,0.15,4286,Maria,En linea,Efectivo,Completo
+728,2023-12-30,Laptop,6,959,0.1,4182,Juan,En linea,Efectivo,Cancelado
+729,2023-12-31,Telefono,5,120,0.1,708,Carlos,En linea,Tarjeta,Completo
+730,2024-01-01,Tableta,2,341,0.05,3906,Juan,Local,nan,Cancelado
+731,2024-01-02,Laptop,1,554,0.05,1811,Maria,Local,Efectivo,Pendiente
+732,2024-01-03,Telefono,8,720,,2799,Carlos,Local,nan,Cancelado
+733,2024-01-04,Telefono,2,402,0.15,3836,Maria,Local,Tarjeta,Pendiente
+734,2024-01-05,Tableta,7,695,0.05,2447,Maria,Local,nan,Cancelado
+735,2024-01-06,Laptop,9,694,,1419,Carlos,En linea,Efectivo,Cancelado
+736,2024-01-07,Tableta,9,902,0.15,2544,Maria,Local,Efectivo,Completo
+737,2024-01-08,Laptop,8,168,0.05,918,Maria,En linea,nan,Cancelado
+738,2024-01-09,Telefono,9,228,,2249,Maria,Local,Efectivo,Completo
+739,2024-01-10,Telefono,2,295,,3342,Maria,En linea,Efectivo,Pendiente
+740,2024-01-11,Telefono,6,239,0.15,1599,Maria,Local,Efectivo,Pendiente
+741,2024-01-12,Telefono,4,543,,3892,Maria,Local,Tarjeta,Completo
+742,2024-01-13,Tableta,4,382,0.15,3272,Maria,En linea,Tarjeta,Pendiente
+743,2024-01-14,Laptop,5,411,0.15,2980,Maria,Local,Efectivo,Cancelado
+744,2024-01-15,Laptop,3,845,0.15,2045,Maria,En linea,nan,Completo
+745,2024-01-16,Tableta,1,634,0.1,1570,Juan,Local,Tarjeta,Completo
+746,2024-01-17,Laptop,8,764,,2350,Juan,Local,nan,Completo
+747,2024-01-18,Telefono,5,376,0.15,4698,Maria,En linea,Efectivo,Pendiente
+748,2024-01-19,Laptop,3,160,0.05,3439,Juan,Local,Efectivo,Pendiente
+749,2024-01-20,Telefono,7,418,0.1,2403,Carlos,En linea,nan,Cancelado
+750,2024-01-21,Tableta,7,989,0.1,1178,Juan,Local,Tarjeta,Cancelado
+751,2024-01-22,Laptop,1,151,,1488,Maria,Local,nan,Completo
+752,2024-01-23,Tableta,9,955,0.15,2975,Maria,Local,nan,Cancelado
+753,2024-01-24,Laptop,2,252,,2107,Juan,Local,Efectivo,Pendiente
+754,2024-01-25,Telefono,5,848,0.1,3369,Maria,Local,Tarjeta,Cancelado
+755,2024-01-26,Tableta,5,410,0.15,2002,Carlos,Local,nan,Pendiente
+756,2024-01-27,Laptop,8,913,0.05,2289,Carlos,Local,Tarjeta,Cancelado
+757,2024-01-28,Telefono,8,643,0.15,1925,Maria,En linea,Efectivo,Pendiente
+758,2024-01-29,Tableta,7,666,0.1,2940,Carlos,Local,Tarjeta,Pendiente
+759,2024-01-30,Tableta,7,963,0.05,2542,Carlos,Local,Efectivo,Cancelado
+760,2024-01-31,Laptop,6,488,0.15,1778,Juan,Local,Tarjeta,Cancelado
+761,2024-02-01,Laptop,6,647,0.05,3094,Carlos,En linea,nan,Pendiente
+762,2024-02-02,Laptop,9,721,0.05,2936,Juan,En linea,Efectivo,Completo
+763,2024-02-03,Telefono,6,276,0.1,4303,Maria,Local,nan,Cancelado
+764,2024-02-04,Laptop,2,461,0.05,2705,Juan,Local,Efectivo,Pendiente
+765,2024-02-05,Tableta,2,413,,1527,Maria,Local,Tarjeta,Cancelado
+766,2024-02-06,Tableta,5,906,0.1,4039,Maria,En linea,Tarjeta,Cancelado
+767,2024-02-07,Laptop,4,947,,3983,Maria,Local,Efectivo,Cancelado
+768,2024-02-08,Laptop,2,196,0.05,2741,Maria,En linea,Efectivo,Cancelado
+769,2024-02-09,Tableta,3,980,,3265,Maria,Local,Efectivo,Cancelado
+770,2024-02-10,Telefono,7,312,0.15,1673,Juan,En linea,Tarjeta,Completo
+771,2024-02-11,Laptop,8,928,0.05,3730,Maria,En linea,Efectivo,Completo
+772,2024-02-12,Laptop,6,236,0.15,3850,Carlos,Local,Efectivo,Completo
+773,2024-02-13,Tableta,5,105,,903,Carlos,Local,nan,Pendiente
+774,2024-02-14,Laptop,1,208,0.15,3225,Maria,Local,Efectivo,Completo
+775,2024-02-15,Telefono,8,646,0.05,3882,Carlos,Local,nan,Completo
+776,2024-02-16,Tableta,3,138,0.15,4663,Juan,Local,nan,Pendiente
+777,2024-02-17,Laptop,6,761,,587,Juan,Local,nan,Completo
+778,2024-02-18,Tableta,3,524,,1658,Maria,Local,Tarjeta,Cancelado
+779,2024-02-19,Laptop,7,729,,4773,Maria,En linea,nan,Completo
+780,2024-02-20,Laptop,7,360,0.05,3357,Maria,Local,Efectivo,Completo
+781,2024-02-21,Laptop,9,525,,1881,Carlos,Local,Tarjeta,Completo
+782,2024-02-22,Telefono,5,186,0.05,2564,Carlos,En linea,Tarjeta,Cancelado
+783,2024-02-23,Telefono,8,564,0.15,2874,Juan,Local,Tarjeta,Cancelado
+784,2024-02-24,Tableta,8,175,,817,Carlos,Local,Tarjeta,Cancelado
+785,2024-02-25,Laptop,1,570,0.15,2002,Juan,Local,Tarjeta,Cancelado
+786,2024-02-26,Laptop,5,513,0.1,2542,Carlos,Local,Tarjeta,Pendiente
+787,2024-02-27,Telefono,3,924,0.15,2522,Juan,En linea,Tarjeta,Cancelado
+788,2024-02-28,Laptop,1,994,0.1,618,Maria,En linea,nan,Cancelado
+789,2024-02-29,Telefono,4,825,0.15,1209,Carlos,Local,Efectivo,Cancelado
+790,2024-03-01,Laptop,8,556,0.05,4057,Juan,Local,Efectivo,Cancelado
+791,2024-03-02,Tableta,3,384,0.15,4640,Carlos,En linea,nan,Pendiente
+792,2024-03-03,Laptop,2,338,0.05,4909,Maria,Local,nan,Completo
+793,2024-03-04,Laptop,9,776,0.05,3750,Juan,En linea,Tarjeta,Completo
+794,2024-03-05,Telefono,5,698,,917,Carlos,En linea,Tarjeta,Cancelado
+795,2024-03-06,Laptop,7,752,0.05,3103,Carlos,En linea,nan,Cancelado
+796,2024-03-07,Laptop,2,771,0.1,4354,Maria,Local,Tarjeta,Cancelado
+797,2024-03-08,Telefono,9,657,,1601,Maria,Local,Efectivo,Completo
+798,2024-03-09,Tableta,9,471,,4921,Juan,Local,Efectivo,Completo
+799,2024-03-10,Tableta,4,594,0.15,3928,Carlos,En linea,Tarjeta,Cancelado
+800,2024-03-11,Telefono,4,723,0.05,2761,Carlos,Local,Tarjeta,Completo
+801,2024-03-12,Telefono,6,144,0.05,4669,Maria,Local,Tarjeta,Pendiente
+802,2024-03-13,Telefono,6,500,0.1,4134,Maria,En linea,Efectivo,Cancelado
+803,2024-03-14,Telefono,1,346,0.15,1008,Juan,Local,Tarjeta,Cancelado
+804,2024-03-15,Telefono,9,715,0.15,2879,Carlos,Local,nan,Pendiente
+805,2024-03-16,Tableta,2,696,,3664,Carlos,Local,Tarjeta,Pendiente
+806,2024-03-17,Tableta,5,549,,1187,Juan,En linea,nan,Completo
+807,2024-03-18,Telefono,9,584,,1792,Juan,Local,Tarjeta,Pendiente
+808,2024-03-19,Laptop,4,745,0.1,4405,Maria,En linea,Tarjeta,Cancelado
+809,2024-03-20,Telefono,3,719,0.1,3575,Maria,En linea,Efectivo,Completo
+810,2024-03-21,Laptop,7,117,,3709,Juan,En linea,nan,Pendiente
+811,2024-03-22,Telefono,6,705,0.15,824,Juan,Local,nan,Completo
+812,2024-03-23,Telefono,8,761,0.1,2493,Carlos,Local,nan,Completo
+813,2024-03-24,Tableta,3,857,0.15,4476,Juan,Local,Efectivo,Completo
+814,2024-03-25,Laptop,5,388,0.15,3270,Juan,En linea,nan,Completo
+815,2024-03-26,Laptop,4,513,0.05,4872,Carlos,En linea,Efectivo,Pendiente
+816,2024-03-27,Tableta,4,820,,3083,Juan,Local,Tarjeta,Cancelado
+817,2024-03-28,Tableta,4,737,0.05,4057,Maria,En linea,Tarjeta,Cancelado
+818,2024-03-29,Tableta,8,334,,4087,Maria,Local,nan,Pendiente
+819,2024-03-30,Tableta,6,515,,651,Carlos,Local,Tarjeta,Cancelado
+820,2024-03-31,Laptop,3,598,0.15,1454,Juan,Local,Tarjeta,Completo
+821,2024-04-01,Laptop,5,733,,4854,Maria,Local,nan,Completo
+822,2024-04-02,Telefono,6,749,0.15,2871,Maria,Local,Tarjeta,Completo
+823,2024-04-03,Telefono,5,214,0.15,1691,Maria,Local,nan,Pendiente
+824,2024-04-04,Tableta,6,773,,1187,Maria,Local,nan,Completo
+825,2024-04-05,Tableta,8,812,0.15,809,Juan,En linea,Tarjeta,Completo
+826,2024-04-06,Tableta,7,333,0.15,2002,Juan,Local,Tarjeta,Pendiente
+827,2024-04-07,Telefono,5,639,0.15,3627,Juan,En linea,Tarjeta,Completo
+828,2024-04-08,Telefono,6,110,0.1,3867,Juan,En linea,Tarjeta,Completo
+829,2024-04-09,Telefono,4,305,0.15,3895,Maria,Local,Tarjeta,Cancelado
+830,2024-04-10,Telefono,9,778,0.1,1313,Carlos,En linea,Efectivo,Pendiente
+831,2024-04-11,Telefono,4,346,0.1,1345,Carlos,En linea,Tarjeta,Completo
+832,2024-04-12,Telefono,1,658,0.15,1664,Maria,En linea,Efectivo,Completo
+833,2024-04-13,Telefono,7,857,0.15,2267,Maria,Local,nan,Completo
+834,2024-04-14,Tableta,7,226,0.1,854,Carlos,Local,Tarjeta,Completo
+835,2024-04-15,Tableta,4,246,0.1,2372,Carlos,Local,Tarjeta,Cancelado
+836,2024-04-16,Tableta,3,217,0.15,2524,Maria,Local,Tarjeta,Cancelado
+837,2024-04-17,Tableta,8,481,0.15,3317,Maria,Local,nan,Cancelado
+838,2024-04-18,Telefono,5,511,,4332,Juan,En linea,Efectivo,Cancelado
+839,2024-04-19,Laptop,7,763,0.1,4775,Juan,En linea,Efectivo,Pendiente
+840,2024-04-20,Telefono,4,683,0.1,565,Carlos,Local,Tarjeta,Completo
+841,2024-04-21,Laptop,4,462,,4766,Maria,En linea,Tarjeta,Cancelado
+842,2024-04-22,Tableta,8,608,0.1,4590,Carlos,En linea,Tarjeta,Completo
+843,2024-04-23,Telefono,8,236,0.05,3021,Juan,En linea,Tarjeta,Pendiente
+844,2024-04-24,Tableta,2,274,0.1,3081,Juan,En linea,nan,Completo
+845,2024-04-25,Telefono,2,388,,1890,Carlos,Local,Tarjeta,Completo
+846,2024-04-26,Tableta,3,580,0.05,1630,Juan,Local,nan,Cancelado
+847,2024-04-27,Laptop,3,118,0.15,2986,Maria,Local,Tarjeta,Cancelado
+848,2024-04-28,Laptop,1,294,,1334,Carlos,En linea,Efectivo,Pendiente
+849,2024-04-29,Laptop,3,429,,726,Maria,En linea,Efectivo,Completo
+850,2024-04-30,Telefono,6,274,0.15,4015,Maria,Local,Tarjeta,Cancelado
+851,2024-05-01,Laptop,8,548,,2943,Juan,Local,Tarjeta,Cancelado
+852,2024-05-02,Telefono,6,453,0.1,1227,Maria,En linea,nan,Cancelado
+853,2024-05-03,Laptop,5,598,0.15,4186,Carlos,Local,Tarjeta,Pendiente
+854,2024-05-04,Laptop,4,240,,4122,Maria,Local,Tarjeta,Completo
+855,2024-05-05,Telefono,3,857,0.15,1536,Maria,En linea,Tarjeta,Cancelado
+856,2024-05-06,Telefono,4,996,0.15,2332,Maria,En linea,Efectivo,Completo
+857,2024-05-07,Laptop,7,192,0.15,3240,Maria,Local,nan,Pendiente
+858,2024-05-08,Telefono,1,338,0.05,992,Maria,En linea,Efectivo,Completo
+859,2024-05-09,Laptop,7,304,,2048,Juan,Local,nan,Cancelado
+860,2024-05-10,Telefono,1,659,0.05,1643,Carlos,En linea,Efectivo,Completo
+861,2024-05-11,Tableta,2,532,,4457,Juan,En linea,Tarjeta,Completo
+862,2024-05-12,Tableta,4,344,0.1,3907,Carlos,Local,Efectivo,Pendiente
+863,2024-05-13,Tableta,1,931,0.1,1139,Carlos,En linea,Efectivo,Pendiente
+864,2024-05-14,Tableta,9,416,0.1,672,Carlos,Local,nan,Completo
+865,2024-05-15,Tableta,6,394,,4854,Carlos,En linea,nan,Completo
+866,2024-05-16,Laptop,1,739,0.15,4459,Carlos,Local,Efectivo,Completo
+867,2024-05-17,Tableta,1,955,0.15,1016,Maria,En linea,nan,Pendiente
+868,2024-05-18,Tableta,6,381,0.05,1022,Juan,En linea,nan,Pendiente
+869,2024-05-19,Tableta,4,116,0.05,2417,Juan,Local,nan,Completo
+870,2024-05-20,Tableta,4,170,0.1,3386,Maria,En linea,nan,Pendiente
+871,2024-05-21,Telefono,6,368,0.05,2664,Carlos,Local,nan,Cancelado
+872,2024-05-22,Laptop,7,424,,2429,Juan,En linea,Efectivo,Pendiente
+873,2024-05-23,Tableta,9,893,,4445,Maria,En linea,nan,Pendiente
+874,2024-05-24,Tableta,5,404,0.05,2709,Maria,Local,Tarjeta,Pendiente
+875,2024-05-25,Tableta,9,550,0.05,4283,Juan,En linea,Efectivo,Cancelado
+876,2024-05-26,Laptop,4,106,0.05,3090,Juan,En linea,Efectivo,Cancelado
+877,2024-05-27,Telefono,2,413,0.05,4576,Carlos,Local,Efectivo,Cancelado
+878,2024-05-28,Laptop,3,916,0.1,1593,Carlos,En linea,nan,Completo
+879,2024-05-29,Telefono,1,202,0.1,4380,Juan,Local,Tarjeta,Completo
+880,2024-05-30,Tableta,6,920,0.05,2994,Carlos,Local,nan,Cancelado
+881,2024-05-31,Tableta,6,292,,3079,Maria,Local,Efectivo,Completo
+882,2024-06-01,Laptop,1,852,0.1,2988,Carlos,En linea,Efectivo,Completo
+883,2024-06-02,Laptop,3,673,,3285,Carlos,En linea,Efectivo,Completo
+884,2024-06-03,Telefono,5,628,0.15,3258,Maria,Local,Efectivo,Cancelado
+885,2024-06-04,Telefono,3,270,,2074,Carlos,En linea,nan,Pendiente
+886,2024-06-05,Laptop,3,636,0.05,2873,Maria,Local,Tarjeta,Cancelado
+887,2024-06-06,Telefono,3,350,0.15,4490,Carlos,En linea,Tarjeta,Cancelado
+888,2024-06-07,Laptop,5,864,0.1,1593,Juan,Local,Efectivo,Completo
+889,2024-06-08,Telefono,5,486,0.1,1689,Carlos,Local,Tarjeta,Completo
+890,2024-06-09,Laptop,4,306,0.15,3189,Juan,En linea,Efectivo,Pendiente
+891,2024-06-10,Laptop,1,640,,4595,Juan,Local,Efectivo,Pendiente
+892,2024-06-11,Laptop,5,728,0.1,2375,Juan,Local,Tarjeta,Pendiente
+893,2024-06-12,Telefono,5,515,0.05,3906,Juan,En linea,Efectivo,Pendiente
+894,2024-06-13,Telefono,4,893,0.15,2287,Juan,Local,Tarjeta,Cancelado
+895,2024-06-14,Telefono,6,479,0.05,4432,Maria,Local,Efectivo,Pendiente
+896,2024-06-15,Laptop,4,243,0.15,2107,Maria,En linea,Tarjeta,Cancelado
+897,2024-06-16,Telefono,7,124,0.1,4248,Maria,Local,Efectivo,Completo
+898,2024-06-17,Telefono,7,921,,548,Juan,Local,Tarjeta,Pendiente
+899,2024-06-18,Laptop,2,767,0.15,4361,Carlos,Local,Efectivo,Completo
+900,2024-06-19,Tableta,3,172,0.15,2680,Maria,Local,Efectivo,Completo
+901,2024-06-20,Laptop,1,731,0.05,3546,Carlos,Local,Efectivo,Cancelado
+902,2024-06-21,Telefono,8,923,0.1,3333,Carlos,Local,Tarjeta,Pendiente
+903,2024-06-22,Laptop,9,932,0.05,1897,Juan,Local,nan,Cancelado
+904,2024-06-23,Tableta,4,192,0.1,4326,Juan,Local,Efectivo,Completo
+905,2024-06-24,Laptop,6,604,0.05,1331,Juan,En linea,Efectivo,Pendiente
+906,2024-06-25,Telefono,9,697,0.15,3197,Maria,Local,Tarjeta,Completo
+907,2024-06-26,Tableta,6,435,0.05,3235,Juan,Local,Efectivo,Completo
+908,2024-06-27,Telefono,9,524,,581,Maria,En linea,Efectivo,Pendiente
+909,2024-06-28,Tableta,4,598,0.1,586,Maria,Local,Efectivo,Pendiente
+910,2024-06-29,Tableta,8,463,0.1,2563,Maria,Local,Efectivo,Pendiente
+911,2024-06-30,Laptop,9,729,0.15,1321,Maria,Local,nan,Cancelado
+912,2024-07-01,Laptop,4,844,0.1,662,Juan,Local,nan,Cancelado
+913,2024-07-02,Telefono,5,298,,4239,Maria,Local,Efectivo,Completo
+914,2024-07-03,Laptop,8,817,0.05,2897,Juan,Local,Efectivo,Pendiente
+915,2024-07-04,Laptop,6,512,0.15,2432,Juan,En linea,Efectivo,Completo
+916,2024-07-05,Tableta,7,438,,3228,Maria,En linea,nan,Completo
+917,2024-07-06,Laptop,3,758,0.1,4035,Juan,En linea,nan,Completo
+918,2024-07-07,Tableta,7,528,0.1,3946,Carlos,En linea,Tarjeta,Completo
+919,2024-07-08,Tableta,8,882,,3290,Juan,En linea,Tarjeta,Completo
+920,2024-07-09,Tableta,6,998,0.05,3207,Juan,Local,Efectivo,Pendiente
+921,2024-07-10,Telefono,9,238,0.05,4433,Maria,Local,Efectivo,Cancelado
+922,2024-07-11,Telefono,6,792,0.15,3885,Maria,Local,nan,Pendiente
+923,2024-07-12,Telefono,9,641,0.1,1422,Juan,Local,Efectivo,Pendiente
+924,2024-07-13,Tableta,4,156,,2675,Maria,Local,Efectivo,Pendiente
+925,2024-07-14,Telefono,8,331,0.05,2082,Carlos,En linea,nan,Cancelado
+926,2024-07-15,Telefono,4,757,0.15,1064,Carlos,En linea,nan,Cancelado
+927,2024-07-16,Laptop,2,534,0.1,3758,Maria,Local,nan,Cancelado
+928,2024-07-17,Telefono,9,483,0.1,3097,Juan,Local,nan,Pendiente
+929,2024-07-18,Telefono,5,659,0.15,3000,Carlos,Local,Tarjeta,Cancelado
+930,2024-07-19,Tableta,4,293,0.15,1487,Carlos,En linea,nan,Completo
+931,2024-07-20,Tableta,2,835,0.05,4136,Juan,En linea,nan,Cancelado
+932,2024-07-21,Tableta,1,747,,723,Maria,Local,Efectivo,Pendiente
+933,2024-07-22,Tableta,7,633,0.1,850,Carlos,En linea,Efectivo,Pendiente
+934,2024-07-23,Tableta,6,617,,2428,Juan,Local,Efectivo,Completo
+935,2024-07-24,Tableta,2,815,0.1,848,Juan,En linea,Tarjeta,Cancelado
+936,2024-07-25,Telefono,8,850,0.1,4777,Carlos,En linea,nan,Cancelado
+937,2024-07-26,Tableta,4,284,,1517,Maria,Local,nan,Completo
+938,2024-07-27,Tableta,8,971,0.15,2726,Carlos,En linea,Tarjeta,Pendiente
+939,2024-07-28,Laptop,7,391,0.05,4624,Juan,En linea,nan,Pendiente
+940,2024-07-29,Telefono,5,434,0.1,2919,Carlos,Local,Efectivo,Cancelado
+941,2024-07-30,Telefono,8,831,0.15,2393,Maria,En linea,Tarjeta,Cancelado
+942,2024-07-31,Telefono,9,215,0.1,3540,Juan,Local,nan,Cancelado
+943,2024-08-01,Tableta,5,924,0.05,2568,Maria,En linea,Tarjeta,Cancelado
+944,2024-08-02,Tableta,5,148,0.1,1625,Carlos,Local,Tarjeta,Cancelado
+945,2024-08-03,Tableta,2,784,0.05,3617,Carlos,Local,nan,Pendiente
+946,2024-08-04,Laptop,5,181,0.05,4661,Maria,En linea,Efectivo,Pendiente
+947,2024-08-05,Tableta,3,933,0.1,4542,Carlos,En linea,nan,Pendiente
+948,2024-08-06,Laptop,7,432,0.1,4933,Maria,Local,nan,Pendiente
+949,2024-08-07,Telefono,5,656,0.05,2670,Carlos,En linea,Efectivo,Completo
+950,2024-08-08,Tableta,8,434,0.15,946,Maria,En linea,nan,Pendiente
+951,2024-08-09,Laptop,1,631,,3158,Maria,En linea,nan,Completo
+952,2024-08-10,Laptop,3,320,0.05,3862,Juan,Local,nan,Pendiente
+953,2024-08-11,Tableta,3,734,0.1,3218,Juan,Local,Tarjeta,Cancelado
+954,2024-08-12,Telefono,9,845,0.1,3983,Maria,Local,Tarjeta,Cancelado
+955,2024-08-13,Telefono,5,832,0.15,3444,Carlos,En linea,Tarjeta,Cancelado
+956,2024-08-14,Telefono,9,422,,4876,Carlos,En linea,nan,Completo
+957,2024-08-15,Laptop,9,950,0.05,1095,Carlos,Local,Efectivo,Pendiente
+958,2024-08-16,Laptop,1,102,0.05,2486,Maria,Local,Tarjeta,Pendiente
+959,2024-08-17,Laptop,2,793,,3250,Maria,En linea,Efectivo,Completo
+960,2024-08-18,Laptop,5,305,0.05,1574,Maria,En linea,nan,Completo
+961,2024-08-19,Telefono,4,931,,4469,Maria,En linea,Tarjeta,Completo
+962,2024-08-20,Tableta,9,139,0.1,4805,Juan,En linea,nan,Completo
+963,2024-08-21,Laptop,7,158,,4721,Maria,Local,Efectivo,Completo
+964,2024-08-22,Laptop,6,673,0.05,4080,Carlos,En linea,Tarjeta,Cancelado
+965,2024-08-23,Telefono,7,743,,3507,Juan,En linea,Tarjeta,Pendiente
+966,2024-08-24,Tableta,1,606,0.15,1469,Carlos,Local,Tarjeta,Completo
+967,2024-08-25,Tableta,1,671,0.1,1080,Maria,Local,Tarjeta,Cancelado
+968,2024-08-26,Telefono,8,983,0.1,3324,Juan,En linea,Efectivo,Completo
+969,2024-08-27,Telefono,2,942,,4501,Maria,Local,Tarjeta,Cancelado
+970,2024-08-28,Tableta,9,221,0.05,1711,Juan,En linea,nan,Completo
+971,2024-08-29,Laptop,7,578,0.15,729,Carlos,En linea,Tarjeta,Pendiente
+972,2024-08-30,Tableta,6,718,0.1,4784,Maria,Local,Efectivo,Completo
+973,2024-08-31,Telefono,1,195,0.1,3685,Maria,Local,Tarjeta,Completo
+974,2024-09-01,Laptop,1,958,0.05,1001,Juan,En linea,Efectivo,Pendiente
+975,2024-09-02,Laptop,2,513,0.05,2632,Juan,Local,Efectivo,Pendiente
+976,2024-09-03,Telefono,6,334,0.15,548,Maria,En linea,nan,Completo
+977,2024-09-04,Telefono,6,997,,4066,Juan,En linea,Tarjeta,Pendiente
+978,2024-09-05,Telefono,2,161,0.05,3555,Maria,En linea,Tarjeta,Pendiente
+979,2024-09-06,Tableta,1,355,,1188,Juan,Local,Tarjeta,Cancelado
+980,2024-09-07,Tableta,5,660,0.15,886,Carlos,En linea,nan,Pendiente
+981,2024-09-08,Laptop,5,447,,1469,Juan,En linea,nan,Pendiente
+982,2024-09-09,Telefono,2,770,0.1,3960,Carlos,En linea,Efectivo,Completo
+983,2024-09-10,Laptop,6,223,,1505,Juan,Local,Efectivo,Completo
+984,2024-09-11,Laptop,9,581,0.15,3552,Juan,En linea,Efectivo,Cancelado
+985,2024-09-12,Laptop,2,416,0.15,3917,Maria,En linea,nan,Completo
+986,2024-09-13,Laptop,2,603,0.15,2802,Juan,En linea,nan,Pendiente
+987,2024-09-14,Telefono,3,818,,2783,Juan,Local,nan,Pendiente
+988,2024-09-15,Laptop,7,147,0.1,2107,Carlos,En linea,Efectivo,Pendiente
+989,2024-09-16,Telefono,6,508,0.05,4866,Juan,En linea,nan,Completo
+990,2024-09-17,Telefono,8,235,0.1,622,Maria,Local,Efectivo,Pendiente
+991,2024-09-18,Tableta,8,300,,1780,Carlos,Local,Efectivo,Pendiente
+992,2024-09-19,Telefono,6,349,,4227,Maria,En linea,Tarjeta,Cancelado
+993,2024-09-20,Tableta,3,413,0.05,758,Maria,En linea,Tarjeta,Cancelado
+994,2024-09-21,Telefono,3,968,,1447,Maria,En linea,Tarjeta,Cancelado
+995,2024-09-22,Telefono,1,467,0.15,1024,Maria,Local,Efectivo,Completo
+996,2024-09-23,Telefono,7,528,0.15,1387,Carlos,Local,Tarjeta,Pendiente
+997,2024-09-24,Tableta,5,929,0.15,707,Juan,En linea,Tarjeta,Pendiente
+998,2024-09-25,Tableta,4,906,0.15,3882,Maria,Local,Tarjeta,Pendiente
+999,2024-09-26,Laptop,4,579,0.15,3294,Carlos,En linea,nan,Cancelado
+1000,2024-09-27,Tableta,4,413,,648,Maria,En linea,Efectivo,Pendiente
+1001,2024-09-28,Tableta,6,599,0.05,937,Juan,Local,Tarjeta,Pendiente
+1002,2024-09-29,Tableta,8,820,0.05,2702,Carlos,En linea,nan,Pendiente
+1003,2024-09-30,Tableta,8,454,0.15,4249,Carlos,Local,nan,Pendiente
+1004,2024-10-01,Laptop,5,584,,3661,Juan,Local,nan,Pendiente
+1005,2024-10-02,Tableta,6,310,0.1,4401,Carlos,En linea,Tarjeta,Completo
+1006,2024-10-03,Telefono,4,803,0.1,4953,Juan,Local,nan,Pendiente
+1007,2024-10-04,Telefono,9,143,,3745,Carlos,En linea,Efectivo,Completo
+1008,2024-10-05,Tableta,8,640,0.15,3323,Carlos,Local,nan,Pendiente
+1009,2024-10-06,Tableta,1,670,0.05,3770,Juan,En linea,nan,Completo
+1010,2024-10-07,Telefono,2,682,,985,Juan,En linea,nan,Pendiente
+1011,2024-10-08,Telefono,9,191,0.1,699,Carlos,En linea,nan,Pendiente
+1012,2024-10-09,Laptop,8,364,0.1,4966,Carlos,Local,Efectivo,Pendiente
+1013,2024-10-10,Telefono,3,994,0.1,2482,Juan,En linea,Tarjeta,Pendiente
+1014,2024-10-11,Telefono,8,319,0.15,1971,Juan,Local,Efectivo,Cancelado
+1015,2024-10-12,Tableta,1,541,0.1,4843,Carlos,Local,Efectivo,Pendiente
+1016,2024-10-13,Telefono,4,500,,2811,Carlos,Local,Tarjeta,Completo
+1017,2024-10-14,Laptop,3,499,,3873,Carlos,Local,nan,Cancelado
+1018,2024-10-15,Telefono,6,826,0.1,2578,Juan,Local,Tarjeta,Cancelado
+1019,2024-10-16,Tableta,7,998,,2021,Carlos,En linea,Tarjeta,Pendiente
+1020,2024-10-17,Tableta,4,888,0.1,1104,Maria,Local,Efectivo,Completo
+1021,2024-10-18,Telefono,7,675,0.1,4348,Juan,En linea,Tarjeta,Completo
+1022,2024-10-19,Tableta,9,957,0.05,3842,Carlos,En linea,nan,Cancelado
+1023,2024-10-20,Laptop,2,903,0.15,1917,Juan,Local,Efectivo,Completo
+1024,2024-10-21,Laptop,3,589,0.15,4375,Maria,En linea,nan,Pendiente
+1025,2024-10-22,Telefono,5,584,0.05,3433,Juan,En linea,Efectivo,Pendiente
+1026,2024-10-23,Telefono,3,856,0.05,1048,Carlos,Local,nan,Pendiente
+1027,2024-10-24,Telefono,8,569,0.15,1338,Maria,En linea,Tarjeta,Pendiente
+1028,2024-10-25,Tableta,8,673,0.1,4315,Maria,Local,Tarjeta,Pendiente
+1029,2024-10-26,Laptop,8,943,0.1,1347,Carlos,Local,Tarjeta,Cancelado
+1030,2024-10-27,Laptop,9,781,0.15,4754,Carlos,Local,nan,Pendiente
+1031,2024-10-28,Tableta,4,544,0.1,4968,Carlos,En linea,Efectivo,Pendiente
+1032,2024-10-29,Laptop,5,368,0.05,2772,Juan,En linea,Efectivo,Cancelado
+1033,2024-10-30,Telefono,5,366,0.1,3820,Juan,En linea,Efectivo,Cancelado
+1034,2024-10-31,Telefono,8,153,0.1,3058,Juan,En linea,Tarjeta,Cancelado
+1035,2024-11-01,Telefono,7,627,,4811,Carlos,Local,nan,Completo
+1036,2024-11-02,Laptop,9,619,,2496,Carlos,Local,Efectivo,Completo
+1037,2024-11-03,Telefono,8,715,,4173,Juan,En linea,nan,Pendiente
+1038,2024-11-04,Tableta,2,158,0.1,2064,Maria,Local,Efectivo,Pendiente
+1039,2024-11-05,Tableta,4,924,0.15,4518,Juan,En linea,Tarjeta,Pendiente
+1040,2024-11-06,Laptop,6,139,0.05,2340,Maria,Local,nan,Completo
+1041,2024-11-07,Tableta,2,336,0.1,3791,Carlos,Local,Efectivo,Pendiente
+1042,2024-11-08,Tableta,7,485,0.15,3387,Carlos,Local,Efectivo,Pendiente
+1043,2024-11-09,Laptop,3,705,0.1,1226,Juan,Local,Efectivo,Completo
+1044,2024-11-10,Telefono,3,833,0.05,1744,Juan,Local,Efectivo,Cancelado
+1045,2024-11-11,Telefono,2,815,0.1,3960,Carlos,En linea,Tarjeta,Completo
+1046,2024-11-12,Telefono,8,749,0.05,4218,Juan,En linea,Efectivo,Pendiente
+1047,2024-11-13,Laptop,6,399,0.1,1565,Carlos,Local,Efectivo,Completo
+1048,2024-11-14,Tableta,1,494,0.05,782,Carlos,En linea,Tarjeta,Cancelado
+1049,2024-11-15,Telefono,1,306,0.1,1581,Maria,Local,Efectivo,Cancelado
+1050,2024-11-16,Telefono,7,435,0.05,4385,Juan,Local,nan,Cancelado
+1051,2024-11-17,Laptop,8,692,,3381,Carlos,Local,nan,Cancelado
+1052,2024-11-18,Telefono,5,829,0.1,3084,Juan,Local,Efectivo,Cancelado
+1053,2024-11-19,Laptop,5,613,0.1,3470,Maria,En linea,Tarjeta,Cancelado
+1054,2024-11-20,Tableta,4,277,0.15,1652,Maria,Local,Tarjeta,Pendiente
+1055,2024-11-21,Laptop,6,495,0.15,3997,Juan,En linea,Tarjeta,Pendiente
+1056,2024-11-22,Laptop,6,470,0.05,1447,Juan,Local,Efectivo,Completo
+1057,2024-11-23,Laptop,3,957,0.1,2217,Carlos,Local,Efectivo,Pendiente
+1058,2024-11-24,Laptop,9,890,0.05,566,Maria,En linea,nan,Cancelado
+1059,2024-11-25,Tableta,7,757,,1136,Maria,Local,Tarjeta,Pendiente
+1060,2024-11-26,Tableta,1,417,0.15,813,Maria,Local,Efectivo,Completo
+1061,2024-11-27,Telefono,7,835,0.05,3897,Juan,En linea,Efectivo,Cancelado
+1062,2024-11-28,Tableta,5,468,0.05,1064,Carlos,En linea,Efectivo,Pendiente
+1063,2024-11-29,Tableta,5,483,0.15,2101,Juan,En linea,Tarjeta,Pendiente
+1064,2024-11-30,Telefono,2,161,0.1,1325,Juan,Local,Tarjeta,Completo
+1065,2024-12-01,Tableta,4,905,0.05,4170,Juan,Local,nan,Cancelado
+1066,2024-12-02,Laptop,6,604,0.15,1525,Carlos,En linea,Tarjeta,Completo
+1067,2024-12-03,Laptop,7,338,0.1,2751,Juan,En linea,Efectivo,Cancelado
+1068,2024-12-04,Telefono,5,294,,1304,Maria,Local,nan,Cancelado
+1069,2024-12-05,Telefono,9,777,0.15,2951,Maria,Local,Tarjeta,Pendiente
+1070,2024-12-06,Telefono,3,321,0.05,1891,Maria,En linea,Tarjeta,Completo
+1071,2024-12-07,Laptop,1,160,,1735,Carlos,En linea,Tarjeta,Completo
+1072,2024-12-08,Tableta,4,228,0.1,4532,Juan,En linea,Tarjeta,Completo
+1073,2024-12-09,Laptop,9,784,0.1,3780,Carlos,En linea,Efectivo,Cancelado
+1074,2024-12-10,Telefono,4,255,0.15,4049,Juan,Local,Tarjeta,Completo
+1075,2024-12-11,Tableta,2,477,0.15,4700,Maria,Local,Efectivo,Cancelado
+1076,2024-12-12,Tableta,5,721,0.15,4641,Juan,Local,Efectivo,Completo
+1077,2024-12-13,Laptop,3,880,0.1,1854,Juan,Local,Efectivo,Completo
+1078,2024-12-14,Telefono,9,967,,2336,Juan,En linea,nan,Pendiente
+1079,2024-12-15,Laptop,4,889,0.1,3392,Carlos,Local,Efectivo,Completo
+1080,2024-12-16,Tableta,6,685,0.05,2996,Juan,En linea,Tarjeta,Pendiente
+1081,2024-12-17,Laptop,2,536,0.1,3083,Juan,Local,nan,Pendiente
+1082,2024-12-18,Laptop,6,306,0.05,3058,Juan,Local,Tarjeta,Cancelado
+1083,2024-12-19,Telefono,3,487,,4118,Carlos,Local,Efectivo,Completo
+1084,2024-12-20,Telefono,9,579,0.15,2059,Carlos,En linea,Tarjeta,Completo
+1085,2024-12-21,Tableta,2,890,0.15,2007,Carlos,Local,nan,Completo
+1086,2024-12-22,Laptop,9,986,0.1,4571,Juan,En linea,nan,Pendiente
+1087,2024-12-23,Laptop,5,937,0.15,2563,Maria,En linea,Tarjeta,Completo
+1088,2024-12-24,Laptop,8,439,,4142,Maria,Local,Tarjeta,Cancelado
+1089,2024-12-25,Tableta,2,968,0.15,2500,Maria,En linea,Tarjeta,Cancelado
+1090,2024-12-26,Tableta,6,439,0.1,1794,Juan,Local,nan,Completo
+1091,2024-12-27,Telefono,3,303,,4565,Maria,En linea,Efectivo,Pendiente
+1092,2024-12-28,Telefono,5,260,0.05,3252,Maria,Local,Tarjeta,Cancelado
+1093,2024-12-29,Telefono,8,639,0.1,2253,Maria,En linea,Efectivo,Cancelado
+1094,2024-12-30,Laptop,1,491,0.05,4710,Juan,En linea,nan,Pendiente
+1095,2024-12-31,Laptop,5,868,,2103,Maria,Local,Tarjeta,Cancelado
+1096,2025-01-01,Telefono,3,776,0.1,1822,Maria,Local,Tarjeta,Pendiente
+1097,2025-01-02,Laptop,4,674,0.1,2941,Juan,Local,nan,Cancelado
+1098,2025-01-03,Telefono,2,633,,1598,Carlos,Local,Tarjeta,Pendiente
+1099,2025-01-04,Tableta,9,169,0.15,2005,Maria,En linea,Efectivo,Cancelado
+1100,2025-01-05,Telefono,3,992,0.1,1626,Carlos,En linea,nan,Completo
+1101,2025-01-06,Tableta,2,504,0.1,796,Maria,En linea,nan,Cancelado
+1102,2025-01-07,Laptop,9,707,0.05,3549,Juan,En linea,Tarjeta,Cancelado
+1103,2025-01-08,Telefono,7,774,0.15,2725,Carlos,Local,nan,Completo
+1104,2025-01-09,Laptop,6,690,0.05,4854,Carlos,En linea,Tarjeta,Completo
+1105,2025-01-10,Tableta,1,616,0.05,4287,Carlos,Local,Tarjeta,Completo
+1106,2025-01-11,Tableta,5,927,0.15,2596,Carlos,En linea,nan,Completo
+1107,2025-01-12,Tableta,3,219,0.15,4109,Maria,Local,Tarjeta,Pendiente
+1108,2025-01-13,Laptop,1,913,,2708,Maria,Local,Efectivo,Pendiente
+1109,2025-01-14,Laptop,4,789,0.15,675,Carlos,Local,Efectivo,Cancelado
+1110,2025-01-15,Laptop,2,787,0.1,3002,Maria,Local,Tarjeta,Cancelado
+1111,2025-01-16,Laptop,2,316,0.15,4499,Carlos,Local,Efectivo,Cancelado
+1112,2025-01-17,Tableta,3,155,,2167,Carlos,En linea,Tarjeta,Pendiente
+1113,2025-01-18,Tableta,8,465,,4871,Juan,Local,Efectivo,Cancelado
+1114,2025-01-19,Telefono,8,798,,3045,Carlos,En linea,nan,Cancelado
+1115,2025-01-20,Telefono,7,603,0.15,1175,Maria,En linea,Tarjeta,Pendiente
+1116,2025-01-21,Laptop,6,843,0.15,2323,Carlos,Local,Tarjeta,Cancelado
+1117,2025-01-22,Tableta,9,866,0.05,1856,Juan,En linea,Tarjeta,Pendiente
+1118,2025-01-23,Tableta,4,554,0.05,3572,Maria,En linea,Tarjeta,Pendiente
+1119,2025-01-24,Tableta,1,203,0.1,3759,Juan,En linea,Tarjeta,Completo
+1120,2025-01-25,Telefono,8,176,0.05,1046,Juan,Local,Tarjeta,Completo
+1121,2025-01-26,Telefono,7,329,0.1,2583,Carlos,Local,nan,Pendiente
+1122,2025-01-27,Tableta,7,357,,2540,Juan,Local,nan,Pendiente
+1123,2025-01-28,Tableta,3,363,0.05,2252,Juan,Local,Efectivo,Completo
+1124,2025-01-29,Tableta,4,430,0.15,2115,Maria,En linea,Tarjeta,Cancelado
+1125,2025-01-30,Telefono,9,281,0.05,2349,Juan,En linea,Efectivo,Cancelado
+1126,2025-01-31,Tableta,6,992,0.1,3142,Carlos,En linea,Efectivo,Cancelado
+1127,2025-02-01,Tableta,5,867,0.05,2100,Carlos,En linea,nan,Pendiente
+1128,2025-02-02,Laptop,3,649,,3896,Carlos,En linea,Efectivo,Completo
+1129,2025-02-03,Laptop,9,787,0.15,4902,Juan,En linea,nan,Cancelado
+1130,2025-02-04,Telefono,5,126,0.1,4105,Maria,Local,Efectivo,Completo
+1131,2025-02-05,Tableta,5,375,0.15,4299,Carlos,En linea,Tarjeta,Completo
+1132,2025-02-06,Tableta,4,751,0.15,1118,Juan,En linea,Efectivo,Pendiente
+1133,2025-02-07,Laptop,4,398,0.1,1632,Carlos,En linea,nan,Cancelado
+1134,2025-02-08,Telefono,1,898,0.15,2615,Carlos,Local,nan,Completo
+1135,2025-02-09,Laptop,7,190,0.15,2839,Maria,En linea,nan,Pendiente
+1136,2025-02-10,Laptop,9,579,0.05,3239,Carlos,En linea,Efectivo,Pendiente
+1137,2025-02-11,Laptop,3,672,0.15,4776,Maria,Local,Efectivo,Pendiente
+1138,2025-02-12,Laptop,2,557,0.15,1987,Juan,En linea,nan,Cancelado
+1139,2025-02-13,Tableta,3,550,0.15,2057,Carlos,Local,Tarjeta,Cancelado
+1140,2025-02-14,Tableta,1,464,0.15,2613,Juan,Local,Tarjeta,Pendiente
+1141,2025-02-15,Laptop,6,958,0.1,1544,Juan,En linea,Efectivo,Cancelado
+1142,2025-02-16,Telefono,7,774,,2931,Juan,En linea,Efectivo,Cancelado
+1143,2025-02-17,Telefono,2,450,0.05,2082,Carlos,Local,nan,Completo
+1144,2025-02-18,Telefono,8,754,0.15,1808,Maria,En linea,Efectivo,Pendiente
+1145,2025-02-19,Telefono,6,499,0.15,1101,Carlos,En linea,Efectivo,Pendiente
+1146,2025-02-20,Laptop,4,352,0.1,2120,Juan,Local,nan,Cancelado
+1147,2025-02-21,Tableta,5,880,,600,Maria,Local,nan,Pendiente
+1148,2025-02-22,Telefono,8,980,0.15,4771,Juan,En linea,Efectivo,Pendiente
+1149,2025-02-23,Laptop,3,902,0.1,737,Maria,Local,Tarjeta,Pendiente
+1150,2025-02-24,Telefono,3,558,0.05,4525,Carlos,En linea,Efectivo,Cancelado
+1151,2025-02-25,Telefono,4,798,0.05,3418,Maria,En linea,Tarjeta,Cancelado
+1152,2025-02-26,Laptop,1,598,0.15,3042,Carlos,En linea,Tarjeta,Cancelado
+1153,2025-02-27,Tableta,9,607,0.15,2503,Juan,En linea,Tarjeta,Completo
+1154,2025-02-28,Tableta,8,403,,2037,Maria,Local,nan,Pendiente
+1155,2025-03-01,Laptop,8,600,,1254,Juan,En linea,nan,Completo
+1156,2025-03-02,Tableta,6,902,0.15,3868,Maria,Local,nan,Cancelado
+1157,2025-03-03,Laptop,7,697,0.1,2758,Carlos,En linea,Efectivo,Completo
+1158,2025-03-04,Laptop,6,265,,4165,Maria,En linea,nan,Pendiente
+1159,2025-03-05,Laptop,9,514,0.15,4735,Maria,Local,nan,Pendiente
+1160,2025-03-06,Tableta,3,561,,1040,Carlos,En linea,Efectivo,Cancelado
+1161,2025-03-07,Laptop,3,213,0.15,769,Carlos,Local,Efectivo,Cancelado
+1162,2025-03-08,Telefono,3,532,0.05,3960,Carlos,Local,Tarjeta,Completo
+1163,2025-03-09,Tableta,3,455,0.15,3908,Maria,En linea,Efectivo,Cancelado
+1164,2025-03-10,Tableta,9,794,0.05,1005,Juan,En linea,Efectivo,Completo
+1165,2025-03-11,Tableta,4,306,,1629,Maria,En linea,nan,Pendiente
+1166,2025-03-12,Tableta,7,867,0.15,2579,Maria,En linea,Tarjeta,Pendiente
+1167,2025-03-13,Telefono,9,334,,3645,Juan,Local,Tarjeta,Pendiente
+1168,2025-03-14,Tableta,7,541,0.05,3742,Carlos,En linea,Efectivo,Pendiente
+1169,2025-03-15,Tableta,9,454,0.15,861,Maria,En linea,nan,Pendiente
+1170,2025-03-16,Laptop,3,614,,4220,Juan,En linea,nan,Completo
+1171,2025-03-17,Tableta,4,307,0.05,1956,Carlos,En linea,nan,Pendiente
+1172,2025-03-18,Telefono,8,808,,4567,Carlos,En linea,nan,Completo
+1173,2025-03-19,Telefono,6,952,0.1,4695,Maria,Local,Efectivo,Pendiente
+1174,2025-03-20,Telefono,5,224,0.05,2181,Carlos,En linea,nan,Completo
+1175,2025-03-21,Telefono,4,237,0.05,1552,Carlos,Local,Tarjeta,Completo
+1176,2025-03-22,Tableta,8,438,0.05,3009,Juan,En linea,Tarjeta,Completo
+1177,2025-03-23,Tableta,1,636,0.15,1181,Juan,En linea,Efectivo,Cancelado
+1178,2025-03-24,Telefono,9,167,0.15,4432,Carlos,En linea,nan,Completo
+1179,2025-03-25,Telefono,1,672,0.15,2629,Juan,Local,nan,Completo
+1180,2025-03-26,Tableta,8,640,0.1,4516,Carlos,En linea,nan,Pendiente
+1181,2025-03-27,Telefono,4,482,0.1,3802,Maria,Local,nan,Completo
+1182,2025-03-28,Laptop,9,118,0.05,1219,Juan,Local,Efectivo,Completo
+1183,2025-03-29,Telefono,5,782,0.1,574,Carlos,En linea,nan,Cancelado
+1184,2025-03-30,Telefono,3,549,,1793,Carlos,Local,Efectivo,Pendiente
+1185,2025-03-31,Laptop,9,173,0.05,2422,Juan,En linea,nan,Cancelado
+1186,2025-04-01,Laptop,9,672,0.05,4657,Juan,En linea,nan,Cancelado
+1187,2025-04-02,Tableta,4,764,,819,Maria,Local,Tarjeta,Cancelado
+1188,2025-04-03,Tableta,4,375,0.05,2649,Carlos,En linea,Efectivo,Completo
+1189,2025-04-04,Laptop,8,147,0.1,1952,Maria,En linea,Tarjeta,Cancelado
+1190,2025-04-05,Laptop,2,310,0.15,2055,Maria,Local,Efectivo,Cancelado
+1191,2025-04-06,Tableta,9,954,,4707,Maria,Local,nan,Pendiente
+1192,2025-04-07,Telefono,6,750,0.1,3532,Juan,Local,nan,Pendiente
+1193,2025-04-08,Laptop,9,721,,960,Maria,Local,Efectivo,Pendiente
+1194,2025-04-09,Tableta,8,794,,1386,Juan,Local,Tarjeta,Pendiente
+1195,2025-04-10,Telefono,7,639,0.05,4033,Juan,Local,Efectivo,Cancelado
+1196,2025-04-11,Laptop,1,808,0.05,4436,Maria,En linea,Efectivo,Pendiente
+1197,2025-04-12,Telefono,3,290,0.1,1615,Maria,Local,nan,Completo
+1198,2025-04-13,Tableta,2,414,,1575,Carlos,Local,Tarjeta,Cancelado
+1199,2025-04-14,Laptop,5,662,0.05,4376,Maria,En linea,Efectivo,Pendiente
+1200,2025-04-15,Telefono,5,760,0.05,2424,Carlos,En linea,Tarjeta,Cancelado
+1201,2025-04-16,Laptop,5,879,,1426,Maria,Local,Tarjeta,Pendiente
+1202,2025-04-17,Telefono,4,661,0.1,2781,Maria,Local,Efectivo,Cancelado
+1203,2025-04-18,Tableta,5,999,0.1,1555,Maria,En linea,Tarjeta,Pendiente
+1204,2025-04-19,Tableta,3,857,,1041,Maria,Local,nan,Completo
+1205,2025-04-20,Laptop,1,212,0.1,2661,Carlos,Local,nan,Pendiente
+1206,2025-04-21,Telefono,5,269,0.05,2751,Carlos,En linea,nan,Cancelado
+1207,2025-04-22,Laptop,9,567,,1552,Maria,Local,nan,Cancelado
+1208,2025-04-23,Laptop,9,777,0.05,3244,Maria,En linea,Tarjeta,Completo
+1209,2025-04-24,Telefono,4,113,0.15,4369,Carlos,Local,nan,Cancelado
+1210,2025-04-25,Telefono,3,814,0.15,4981,Juan,En linea,Efectivo,Completo
+1211,2025-04-26,Telefono,1,387,0.1,4657,Juan,En linea,nan,Cancelado
+1212,2025-04-27,Tableta,2,288,0.15,2060,Juan,En linea,Efectivo,Cancelado
+1213,2025-04-28,Laptop,8,254,0.05,4262,Carlos,Local,Efectivo,Completo
+1214,2025-04-29,Laptop,1,666,0.15,1664,Carlos,En linea,nan,Cancelado
+1215,2025-04-30,Tableta,8,793,0.05,3222,Juan,Local,nan,Cancelado
+1216,2025-05-01,Telefono,7,821,0.1,2858,Juan,En linea,Tarjeta,Completo
+1217,2025-05-02,Tableta,8,987,0.1,970,Maria,En linea,Efectivo,Pendiente
+1218,2025-05-03,Tableta,6,570,0.05,1916,Carlos,En linea,nan,Completo
+1219,2025-05-04,Tableta,9,174,0.15,1968,Carlos,Local,Tarjeta,Cancelado
+1220,2025-05-05,Laptop,3,376,0.1,1308,Juan,Local,nan,Pendiente
+1221,2025-05-06,Tableta,4,744,,671,Juan,En linea,nan,Pendiente
+1222,2025-05-07,Laptop,6,442,0.1,4626,Carlos,Local,nan,Pendiente
+1223,2025-05-08,Laptop,8,524,0.15,4642,Maria,Local,Efectivo,Completo
+1224,2025-05-09,Laptop,5,670,,4725,Juan,Local,nan,Pendiente
+1225,2025-05-10,Telefono,3,610,0.15,2899,Carlos,En linea,Tarjeta,Pendiente
+1226,2025-05-11,Laptop,6,956,0.05,2145,Carlos,Local,nan,Pendiente
+1227,2025-05-12,Laptop,4,281,,557,Maria,En linea,nan,Cancelado
+1228,2025-05-13,Telefono,9,557,0.15,1629,Maria,En linea,Tarjeta,Completo
+1229,2025-05-14,Laptop,3,950,,1853,Juan,En linea,Tarjeta,Completo
+1230,2025-05-15,Tableta,4,932,0.15,1267,Juan,Local,Efectivo,Cancelado
+1231,2025-05-16,Tableta,7,163,,4395,Juan,En linea,Efectivo,Pendiente
+1232,2025-05-17,Laptop,7,938,0.15,1182,Carlos,Local,Efectivo,Cancelado
+1233,2025-05-18,Telefono,4,359,0.05,3954,Juan,Local,Efectivo,Cancelado
+1234,2025-05-19,Tableta,6,292,,2508,Carlos,En linea,Tarjeta,Pendiente
+1235,2025-05-20,Telefono,3,754,,3642,Juan,En linea,nan,Pendiente
+1236,2025-05-21,Telefono,6,715,,2290,Maria,En linea,nan,Completo
+1237,2025-05-22,Tableta,2,505,,1977,Maria,Local,nan,Pendiente
+1238,2025-05-23,Telefono,8,825,0.05,1385,Carlos,Local,Efectivo,Cancelado
+1239,2025-05-24,Tableta,2,853,,4406,Maria,En linea,Tarjeta,Cancelado
+1240,2025-05-25,Telefono,7,820,0.1,4992,Carlos,En linea,Tarjeta,Pendiente
+1241,2025-05-26,Tableta,9,192,0.05,2038,Carlos,Local,Tarjeta,Completo
+1242,2025-05-27,Laptop,1,529,0.1,2573,Maria,Local,nan,Cancelado
+1243,2025-05-28,Tableta,8,753,,812,Carlos,En linea,Efectivo,Pendiente
+1244,2025-05-29,Tableta,7,533,0.15,1310,Maria,Local,Tarjeta,Completo
+1245,2025-05-30,Tableta,6,503,0.1,2735,Juan,Local,Efectivo,Completo
+1246,2025-05-31,Tableta,6,533,,3357,Juan,Local,Tarjeta,Cancelado
+1247,2025-06-01,Telefono,6,211,0.1,3263,Maria,Local,Efectivo,Cancelado
+1248,2025-06-02,Laptop,9,474,,2532,Maria,Local,Tarjeta,Completo
+1249,2025-06-03,Tableta,2,158,,2007,Maria,Local,Efectivo,Completo
+1250,2025-06-04,Telefono,1,142,,3070,Maria,En linea,Tarjeta,Completo
+1251,2025-06-05,Laptop,6,306,0.15,2394,Juan,Local,Tarjeta,Pendiente
+1252,2025-06-06,Laptop,8,879,0.1,3205,Carlos,En linea,Efectivo,Cancelado
+1253,2025-06-07,Laptop,3,395,0.05,1096,Carlos,En linea,Efectivo,Completo
+1254,2025-06-08,Laptop,1,217,0.05,2647,Juan,Local,nan,Cancelado
+1255,2025-06-09,Tableta,9,631,0.05,1115,Carlos,En linea,Efectivo,Cancelado
+1256,2025-06-10,Tableta,1,321,0.05,1447,Juan,En linea,Tarjeta,Cancelado
+1257,2025-06-11,Telefono,3,265,,4873,Carlos,En linea,Tarjeta,Completo
+1258,2025-06-12,Telefono,8,742,0.1,4264,Maria,Local,Efectivo,Pendiente
+1259,2025-06-13,Telefono,3,255,0.1,2513,Maria,En linea,nan,Completo
+1260,2025-06-14,Laptop,4,283,0.15,4197,Maria,Local,Efectivo,Cancelado
+1261,2025-06-15,Laptop,8,189,0.1,990,Juan,En linea,Tarjeta,Completo
+1262,2025-06-16,Tableta,1,193,0.1,4850,Juan,En linea,Tarjeta,Completo
+1263,2025-06-17,Laptop,6,112,0.1,2928,Carlos,En linea,nan,Cancelado
+1264,2025-06-18,Laptop,1,933,0.15,1041,Carlos,En linea,Efectivo,Cancelado
+1265,2025-06-19,Laptop,1,904,0.05,1787,Carlos,Local,Tarjeta,Completo
+1266,2025-06-20,Telefono,8,841,0.1,2133,Juan,En linea,Tarjeta,Completo
+1267,2025-06-21,Telefono,4,933,0.15,3426,Carlos,En linea,Tarjeta,Completo
+1268,2025-06-22,Tableta,1,903,0.15,1852,Maria,Local,Efectivo,Completo
+1269,2025-06-23,Laptop,7,537,,4876,Carlos,Local,Efectivo,Pendiente
+1270,2025-06-24,Laptop,5,637,0.15,1798,Maria,Local,nan,Completo
+1271,2025-06-25,Tableta,5,686,0.05,4467,Juan,En linea,Tarjeta,Pendiente
+1272,2025-06-26,Laptop,1,975,0.1,4923,Maria,Local,Tarjeta,Cancelado
+1273,2025-06-27,Laptop,6,910,0.15,2758,Maria,Local,nan,Pendiente
+1274,2025-06-28,Telefono,9,249,0.05,2573,Maria,Local,Tarjeta,Cancelado
+1275,2025-06-29,Tableta,9,759,0.15,1201,Juan,Local,nan,Pendiente
+1276,2025-06-30,Tableta,8,107,0.15,2419,Juan,Local,nan,Cancelado
+1277,2025-07-01,Tableta,5,128,0.15,2960,Juan,Local,Tarjeta,Completo
+1278,2025-07-02,Tableta,1,395,0.15,4762,Juan,En linea,Efectivo,Pendiente
+1279,2025-07-03,Telefono,9,820,0.15,4764,Carlos,Local,Efectivo,Pendiente
+1280,2025-07-04,Telefono,1,739,0.05,4824,Juan,En linea,Efectivo,Cancelado
+1281,2025-07-05,Laptop,8,439,0.1,866,Maria,Local,Efectivo,Cancelado
+1282,2025-07-06,Laptop,5,727,0.1,1027,Juan,Local,Tarjeta,Pendiente
+1283,2025-07-07,Laptop,3,538,0.1,4218,Carlos,Local,nan,Cancelado
+1284,2025-07-08,Laptop,7,243,0.1,4109,Carlos,En linea,nan,Completo
+1285,2025-07-09,Telefono,7,929,0.05,4435,Carlos,Local,Tarjeta,Pendiente
+1286,2025-07-10,Tableta,9,846,,2653,Maria,Local,Efectivo,Completo
+1287,2025-07-11,Telefono,7,618,,2408,Juan,Local,nan,Pendiente
+1288,2025-07-12,Laptop,3,144,0.05,3512,Juan,Local,Tarjeta,Completo
+1289,2025-07-13,Telefono,1,338,0.05,4728,Juan,En linea,Tarjeta,Pendiente
+1290,2025-07-14,Tableta,8,254,0.15,3522,Maria,En linea,Efectivo,Cancelado
+1291,2025-07-15,Tableta,3,280,0.15,3983,Maria,En linea,Tarjeta,Pendiente
+1292,2025-07-16,Telefono,8,314,0.15,3220,Carlos,En linea,nan,Completo
+1293,2025-07-17,Telefono,8,187,0.1,2270,Carlos,En linea,nan,Pendiente
+1294,2025-07-18,Telefono,5,355,0.15,4613,Juan,Local,Tarjeta,Completo
+1295,2025-07-19,Laptop,1,610,,2277,Maria,Local,nan,Completo
+1296,2025-07-20,Telefono,7,172,0.1,4712,Maria,Local,Tarjeta,Completo
+1297,2025-07-21,Telefono,5,278,0.15,1297,Juan,En linea,nan,Cancelado
+1298,2025-07-22,Telefono,8,311,0.1,3715,Juan,Local,Efectivo,Pendiente
+1299,2025-07-23,Tableta,9,904,,4288,Carlos,En linea,nan,Completo
+1300,2025-07-24,Tableta,7,333,0.15,3476,Carlos,Local,Efectivo,Cancelado
+1301,2025-07-25,Laptop,7,564,,4237,Carlos,En linea,Efectivo,Completo
+1302,2025-07-26,Laptop,1,850,,2211,Juan,Local,Tarjeta,Pendiente
+1303,2025-07-27,Tableta,4,322,,1252,Juan,Local,Efectivo,Cancelado
+1304,2025-07-28,Tableta,2,730,0.15,2969,Carlos,Local,nan,Completo
+1305,2025-07-29,Tableta,2,924,0.05,4469,Carlos,Local,nan,Completo
+1306,2025-07-30,Telefono,2,363,0.15,1892,Maria,En linea,Efectivo,Completo
+1307,2025-07-31,Telefono,4,306,,3105,Maria,Local,Tarjeta,Pendiente
+1308,2025-08-01,Tableta,1,706,0.15,1177,Carlos,Local,Efectivo,Cancelado
+1309,2025-08-02,Telefono,4,984,,605,Carlos,Local,nan,Cancelado
+1310,2025-08-03,Telefono,2,833,0.05,3787,Maria,En linea,nan,Cancelado
+1311,2025-08-04,Laptop,5,465,0.1,2446,Carlos,Local,Efectivo,Completo
+1312,2025-08-05,Tableta,3,375,0.05,1595,Maria,Local,Efectivo,Cancelado
+1313,2025-08-06,Tableta,8,479,0.05,2282,Maria,Local,Efectivo,Completo
+1314,2025-08-07,Telefono,4,842,0.1,3757,Maria,Local,nan,Pendiente
+1315,2025-08-08,Tableta,1,408,0.15,2497,Juan,Local,nan,Cancelado
+1316,2025-08-09,Laptop,1,730,0.1,2061,Juan,En linea,nan,Completo
+1317,2025-08-10,Laptop,3,367,0.15,4506,Carlos,En linea,Tarjeta,Cancelado
+1318,2025-08-11,Laptop,9,884,0.15,2175,Maria,En linea,nan,Cancelado
+1319,2025-08-12,Tableta,7,163,,1622,Juan,Local,nan,Pendiente
+1320,2025-08-13,Tableta,2,909,,4481,Carlos,En linea,Tarjeta,Cancelado
+1321,2025-08-14,Tableta,9,449,0.1,1801,Carlos,Local,Tarjeta,Pendiente
+1322,2025-08-15,Tableta,2,593,0.05,1443,Carlos,Local,Tarjeta,Cancelado
+1323,2025-08-16,Tableta,3,622,0.1,1445,Carlos,Local,Tarjeta,Cancelado
+1324,2025-08-17,Laptop,2,197,0.15,1100,Carlos,Local,Tarjeta,Cancelado
+1325,2025-08-18,Telefono,3,170,,3200,Maria,En linea,Tarjeta,Cancelado
+1326,2025-08-19,Laptop,6,463,0.1,1917,Carlos,En linea,Efectivo,Cancelado
+1327,2025-08-20,Tableta,9,669,0.1,2024,Maria,En linea,Efectivo,Cancelado
+1328,2025-08-21,Laptop,9,901,,4266,Juan,Local,Efectivo,Pendiente
+1329,2025-08-22,Tableta,7,862,,750,Carlos,En linea,Efectivo,Pendiente
+1330,2025-08-23,Tableta,3,375,,2044,Juan,En linea,nan,Completo
+1331,2025-08-24,Laptop,4,149,0.15,578,Maria,Local,Tarjeta,Cancelado
+1332,2025-08-25,Tableta,6,457,,3623,Maria,En linea,nan,Pendiente
+1333,2025-08-26,Telefono,5,827,0.05,1397,Juan,Local,Tarjeta,Cancelado
+1334,2025-08-27,Tableta,2,663,0.1,725,Carlos,En linea,Tarjeta,Cancelado
+1335,2025-08-28,Telefono,6,882,,1709,Carlos,En linea,nan,Pendiente
+1336,2025-08-29,Telefono,3,584,,2678,Juan,En linea,Efectivo,Cancelado
+1337,2025-08-30,Tableta,8,183,0.15,3179,Juan,Local,nan,Pendiente
+1338,2025-08-31,Laptop,2,998,0.15,3385,Juan,En linea,nan,Pendiente
+1339,2025-09-01,Telefono,1,904,0.1,3306,Carlos,En linea,Tarjeta,Completo
+1340,2025-09-02,Laptop,9,737,0.05,1203,Carlos,En linea,Tarjeta,Completo
+1341,2025-09-03,Telefono,3,907,0.1,3044,Carlos,En linea,Tarjeta,Completo
+1342,2025-09-04,Tableta,1,683,,2870,Juan,Local,Efectivo,Completo
+1343,2025-09-05,Tableta,7,395,0.05,3781,Carlos,Local,nan,Cancelado
+1344,2025-09-06,Telefono,5,335,0.05,828,Maria,En linea,nan,Cancelado
+1345,2025-09-07,Tableta,5,155,0.05,4728,Juan,En linea,Efectivo,Completo
+1346,2025-09-08,Telefono,1,459,0.05,620,Carlos,En linea,nan,Pendiente
+1347,2025-09-09,Tableta,9,209,0.1,1464,Juan,Local,nan,Pendiente
+1348,2025-09-10,Laptop,7,291,0.15,4724,Maria,En linea,Tarjeta,Pendiente
+1349,2025-09-11,Tableta,8,192,0.15,4175,Maria,En linea,Efectivo,Pendiente
+1350,2025-09-12,Laptop,9,961,,2576,Juan,Local,Tarjeta,Cancelado
+1351,2025-09-13,Tableta,6,667,0.15,832,Juan,Local,Efectivo,Pendiente
+1352,2025-09-14,Laptop,5,159,0.15,3868,Maria,Local,Tarjeta,Pendiente
+1353,2025-09-15,Tableta,6,749,0.15,1816,Juan,En linea,nan,Completo
+1354,2025-09-16,Laptop,2,138,0.15,1696,Maria,Local,Efectivo,Pendiente
+1355,2025-09-17,Telefono,4,639,,3670,Maria,Local,Efectivo,Cancelado
+1356,2025-09-18,Telefono,3,148,0.1,1929,Carlos,En linea,Tarjeta,Pendiente
+1357,2025-09-19,Laptop,7,519,0.05,855,Juan,Local,Efectivo,Pendiente
+1358,2025-09-20,Tableta,9,736,0.15,4734,Juan,En linea,nan,Cancelado
+1359,2025-09-21,Laptop,5,112,0.1,2026,Carlos,En linea,nan,Completo
+1360,2025-09-22,Tableta,6,135,0.15,4397,Maria,Local,nan,Cancelado
+1361,2025-09-23,Telefono,2,200,0.15,528,Juan,En linea,Tarjeta,Completo
+1362,2025-09-24,Tableta,3,893,0.05,1513,Carlos,Local,Efectivo,Pendiente
+1363,2025-09-25,Telefono,3,185,0.05,3202,Carlos,Local,Tarjeta,Completo
+1364,2025-09-26,Tableta,9,615,0.05,1327,Juan,Local,nan,Completo
+1365,2025-09-27,Tableta,7,322,0.15,4946,Carlos,En linea,Efectivo,Completo
+1366,2025-09-28,Tableta,8,437,0.15,2524,Maria,Local,nan,Pendiente
+1367,2025-09-29,Laptop,9,265,0.15,798,Carlos,En linea,Efectivo,Completo
+1368,2025-09-30,Laptop,6,482,0.05,2365,Maria,En linea,Efectivo,Completo
+1369,2025-10-01,Telefono,4,955,,4516,Maria,En linea,Tarjeta,Pendiente
+1370,2025-10-02,Telefono,1,994,0.1,2611,Juan,Local,Efectivo,Cancelado
+1371,2025-10-03,Laptop,8,475,,1254,Carlos,En linea,nan,Cancelado
+1372,2025-10-04,Telefono,7,570,0.15,1269,Maria,En linea,Efectivo,Cancelado
+1373,2025-10-05,Laptop,2,889,0.15,4235,Maria,Local,nan,Pendiente
+1374,2025-10-06,Tableta,8,741,,1738,Carlos,Local,Tarjeta,Pendiente
+1375,2025-10-07,Telefono,5,130,0.15,2713,Maria,En linea,nan,Cancelado
+1376,2025-10-08,Telefono,7,474,0.1,2406,Carlos,En linea,Efectivo,Completo
+1377,2025-10-09,Laptop,4,110,0.15,2064,Juan,Local,nan,Cancelado
+1378,2025-10-10,Telefono,5,401,0.1,1718,Maria,En linea,nan,Pendiente
+1379,2025-10-11,Telefono,8,195,,1857,Maria,En linea,Efectivo,Completo
+1380,2025-10-12,Tableta,1,289,,4339,Carlos,En linea,nan,Completo
+1381,2025-10-13,Telefono,1,552,0.15,1960,Carlos,En linea,Efectivo,Pendiente
+1382,2025-10-14,Tableta,4,291,0.1,4485,Carlos,Local,Tarjeta,Completo
+1383,2025-10-15,Laptop,3,585,0.15,1916,Carlos,En linea,nan,Cancelado
+1384,2025-10-16,Telefono,2,365,0.05,3353,Maria,Local,Tarjeta,Pendiente
+1385,2025-10-17,Tableta,3,523,0.05,1928,Juan,En linea,nan,Pendiente
+1386,2025-10-18,Laptop,1,227,0.05,4878,Juan,Local,nan,Pendiente
+1387,2025-10-19,Telefono,1,337,0.05,4974,Juan,En linea,Tarjeta,Pendiente
+1388,2025-10-20,Laptop,6,454,0.15,4793,Juan,Local,nan,Completo
+1389,2025-10-21,Telefono,5,211,0.05,3562,Carlos,En linea,nan,Pendiente
+1390,2025-10-22,Laptop,8,927,0.1,3571,Maria,Local,Tarjeta,Pendiente
+1391,2025-10-23,Laptop,2,545,,1055,Maria,En linea,nan,Completo
+1392,2025-10-24,Tableta,4,442,,855,Maria,En linea,Efectivo,Pendiente
+1393,2025-10-25,Laptop,8,244,0.05,2063,Carlos,Local,nan,Completo
+1394,2025-10-26,Telefono,6,164,0.05,4000,Maria,Local,nan,Completo
+1395,2025-10-27,Telefono,1,346,0.05,1540,Carlos,Local,nan,Pendiente
+1396,2025-10-28,Tableta,4,834,0.15,3186,Maria,Local,Tarjeta,Cancelado
+1397,2025-10-29,Telefono,1,589,,4974,Juan,Local,Efectivo,Pendiente
+1398,2025-10-30,Telefono,2,924,0.05,3053,Carlos,En linea,Efectivo,Cancelado
+1399,2025-10-31,Telefono,5,538,0.1,2279,Maria,Local,nan,Completo
+1400,2025-11-01,Laptop,8,205,0.05,575,Juan,Local,Tarjeta,Cancelado
+1401,2025-11-02,Laptop,8,280,,4826,Juan,En linea,Tarjeta,Pendiente
+1402,2025-11-03,Telefono,3,283,0.05,3819,Juan,Local,Efectivo,Pendiente
+1403,2025-11-04,Tableta,4,325,,2849,Carlos,Local,Tarjeta,Cancelado
+1404,2025-11-05,Laptop,6,876,0.05,3273,Carlos,Local,nan,Pendiente
+1405,2025-11-06,Tableta,3,889,0.1,2762,Maria,En linea,nan,Cancelado
+1406,2025-11-07,Telefono,2,188,0.05,3729,Juan,Local,Tarjeta,Completo
+1407,2025-11-08,Telefono,6,787,0.1,2616,Maria,En linea,nan,Cancelado
+1408,2025-11-09,Laptop,5,629,0.1,892,Maria,En linea,Efectivo,Cancelado
+1409,2025-11-10,Telefono,5,470,0.05,1608,Juan,Local,nan,Cancelado
+1410,2025-11-11,Laptop,5,498,0.1,4862,Maria,En linea,Tarjeta,Cancelado
+1411,2025-11-12,Telefono,5,205,0.15,1110,Carlos,Local,Efectivo,Completo
+1412,2025-11-13,Telefono,3,370,0.05,3275,Maria,Local,nan,Completo
+1413,2025-11-14,Laptop,7,930,0.05,4498,Juan,Local,Efectivo,Completo
+1414,2025-11-15,Laptop,6,602,0.1,1172,Carlos,Local,Tarjeta,Cancelado
+1415,2025-11-16,Laptop,4,778,0.1,4177,Carlos,Local,nan,Completo
+1416,2025-11-17,Telefono,2,624,0.05,530,Maria,En linea,nan,Pendiente
+1417,2025-11-18,Telefono,9,948,0.15,1900,Maria,En linea,Efectivo,Completo
+1418,2025-11-19,Tableta,1,131,0.1,4571,Carlos,En linea,nan,Cancelado
+1419,2025-11-20,Laptop,4,492,0.1,1116,Maria,En linea,nan,Pendiente
+1420,2025-11-21,Telefono,1,139,,3286,Juan,Local,nan,Cancelado
+1421,2025-11-22,Telefono,6,759,0.15,1370,Maria,Local,nan,Pendiente
+1422,2025-11-23,Laptop,4,317,0.15,4696,Maria,En linea,Tarjeta,Cancelado
+1423,2025-11-24,Tableta,5,830,0.05,4104,Carlos,Local,nan,Cancelado
+1424,2025-11-25,Laptop,5,181,0.15,1912,Maria,En linea,Efectivo,Pendiente
+1425,2025-11-26,Tableta,9,944,0.05,3239,Maria,En linea,Tarjeta,Completo
+1426,2025-11-27,Telefono,1,819,,1440,Maria,En linea,Efectivo,Pendiente
+1427,2025-11-28,Tableta,2,300,0.15,840,Juan,En linea,Efectivo,Pendiente
+1428,2025-11-29,Telefono,6,546,0.1,3408,Maria,Local,Efectivo,Pendiente
+1429,2025-11-30,Laptop,5,943,,4633,Juan,Local,Tarjeta,Pendiente
+1430,2025-12-01,Laptop,7,527,0.05,1159,Juan,En linea,Tarjeta,Pendiente
+1431,2025-12-02,Laptop,3,137,,2533,Juan,En linea,Tarjeta,Cancelado
+1432,2025-12-03,Tableta,3,310,0.05,2060,Juan,En linea,nan,Cancelado
+1433,2025-12-04,Telefono,2,543,,3957,Carlos,En linea,Efectivo,Completo
+1434,2025-12-05,Laptop,3,426,0.05,2156,Juan,En linea,Tarjeta,Completo
+1435,2025-12-06,Laptop,1,860,0.15,3475,Maria,Local,Efectivo,Pendiente
+1436,2025-12-07,Telefono,5,326,0.1,1549,Juan,En linea,Tarjeta,Completo
+1437,2025-12-08,Laptop,5,147,0.05,953,Maria,En linea,Tarjeta,Completo
+1438,2025-12-09,Telefono,7,117,,2204,Juan,Local,Tarjeta,Pendiente
+1439,2025-12-10,Telefono,4,538,0.05,3284,Carlos,Local,Efectivo,Cancelado
+1440,2025-12-11,Telefono,3,906,0.05,1318,Juan,Local,nan,Cancelado
+1441,2025-12-12,Telefono,1,807,0.05,512,Juan,Local,Tarjeta,Completo
+1442,2025-12-13,Telefono,8,286,,4479,Carlos,Local,Tarjeta,Cancelado
+1443,2025-12-14,Tableta,3,444,0.1,1420,Juan,Local,Tarjeta,Cancelado
+1444,2025-12-15,Laptop,2,323,0.15,2918,Maria,Local,nan,Completo
+1445,2025-12-16,Tableta,4,929,0.1,1814,Juan,Local,Efectivo,Pendiente
+1446,2025-12-17,Laptop,3,587,0.05,4177,Juan,Local,Efectivo,Completo
+1447,2025-12-18,Tableta,1,976,,2517,Juan,En linea,Efectivo,Completo
+1448,2025-12-19,Telefono,3,948,0.1,1728,Carlos,Local,Efectivo,Completo
+1449,2025-12-20,Laptop,2,328,0.05,2934,Juan,En linea,Tarjeta,Pendiente
+1450,2025-12-21,Laptop,8,489,0.15,3368,Juan,En linea,nan,Pendiente
+1451,2025-12-22,Tableta,6,688,0.15,3015,Maria,En linea,Tarjeta,Pendiente
+1452,2025-12-23,Tableta,9,287,0.15,1938,Juan,En linea,nan,Pendiente
+1453,2025-12-24,Laptop,8,957,0.05,4664,Juan,En linea,Efectivo,Completo
+1454,2025-12-25,Tableta,3,369,,4043,Juan,En linea,nan,Cancelado
+1455,2025-12-26,Tableta,5,706,0.1,3675,Juan,En linea,Tarjeta,Completo
+1456,2025-12-27,Tableta,7,409,0.15,2281,Maria,En linea,Tarjeta,Pendiente
+1457,2025-12-28,Telefono,5,231,0.05,2763,Maria,Local,Efectivo,Cancelado
+1458,2025-12-29,Telefono,8,650,0.05,2469,Carlos,En linea,Tarjeta,Completo
+1459,2025-12-30,Tableta,5,171,0.1,711,Juan,En linea,Tarjeta,Cancelado
+1460,2025-12-31,Tableta,1,892,0.15,1007,Carlos,En linea,nan,Pendiente
+1461,2026-01-01,Telefono,5,944,0.05,831,Carlos,En linea,Tarjeta,Cancelado
+1462,2026-01-02,Telefono,4,771,0.1,1050,Juan,Local,Efectivo,Cancelado
+1463,2026-01-03,Laptop,6,286,,1441,Maria,En linea,Efectivo,Pendiente
+1464,2026-01-04,Laptop,3,585,,1227,Maria,Local,Tarjeta,Cancelado
+1465,2026-01-05,Telefono,5,290,,3362,Juan,Local,Efectivo,Completo
+1466,2026-01-06,Tableta,2,521,0.15,3743,Juan,En linea,nan,Cancelado
+1467,2026-01-07,Tableta,6,219,0.1,1148,Maria,En linea,nan,Completo
+1468,2026-01-08,Tableta,6,319,0.1,3237,Juan,Local,Tarjeta,Cancelado
+1469,2026-01-09,Tableta,5,152,0.05,3247,Juan,En linea,Tarjeta,Cancelado
+1470,2026-01-10,Laptop,6,833,0.05,1509,Juan,En linea,nan,Pendiente
+1471,2026-01-11,Telefono,7,550,0.05,2050,Maria,Local,Efectivo,Pendiente
+1472,2026-01-12,Tableta,5,511,0.1,1303,Carlos,Local,Tarjeta,Completo
+1473,2026-01-13,Laptop,1,742,0.05,4580,Carlos,En linea,Tarjeta,Pendiente
+1474,2026-01-14,Tableta,8,336,0.1,4809,Juan,En linea,Efectivo,Pendiente
+1475,2026-01-15,Telefono,4,857,0.1,4764,Maria,En linea,Tarjeta,Pendiente
+1476,2026-01-16,Laptop,9,837,,3901,Juan,Local,Efectivo,Pendiente
+1477,2026-01-17,Telefono,6,819,0.05,4741,Maria,En linea,Efectivo,Pendiente
+1478,2026-01-18,Telefono,1,505,,3661,Juan,Local,Efectivo,Completo
+1479,2026-01-19,Laptop,3,707,0.15,4655,Maria,Local,Efectivo,Completo
+1480,2026-01-20,Laptop,3,521,0.15,1027,Maria,En linea,Efectivo,Pendiente
+1481,2026-01-21,Laptop,4,811,0.15,3798,Carlos,Local,nan,Pendiente
+1482,2026-01-22,Laptop,6,346,0.1,1523,Juan,En linea,Efectivo,Completo
+1483,2026-01-23,Laptop,7,171,0.1,4234,Carlos,En linea,nan,Cancelado
+1484,2026-01-24,Laptop,4,929,0.1,932,Carlos,Local,Efectivo,Completo
+1485,2026-01-25,Laptop,6,284,0.05,1676,Maria,En linea,Tarjeta,Cancelado
+1486,2026-01-26,Tableta,1,105,,900,Juan,Local,nan,Pendiente
+1487,2026-01-27,Telefono,8,305,0.1,2604,Maria,Local,Tarjeta,Pendiente
+1488,2026-01-28,Laptop,7,643,,3550,Maria,En linea,Efectivo,Completo
+1489,2026-01-29,Tableta,9,710,,2733,Maria,En linea,Efectivo,Pendiente
+1490,2026-01-30,Tableta,3,486,,2945,Juan,En linea,Tarjeta,Cancelado
+1491,2026-01-31,Tableta,2,867,0.05,3335,Juan,En linea,Efectivo,Cancelado
+1492,2026-02-01,Telefono,1,798,0.05,3013,Maria,Local,Tarjeta,Completo
+1493,2026-02-02,Laptop,3,175,0.15,2273,Juan,Local,Efectivo,Cancelado
+1494,2026-02-03,Tableta,5,276,0.15,1596,Maria,Local,Efectivo,Completo
+1495,2026-02-04,Telefono,2,926,,1428,Juan,En linea,nan,Completo
+1496,2026-02-05,Telefono,3,898,0.15,2451,Juan,Local,Tarjeta,Cancelado
+1497,2026-02-06,Telefono,4,448,,2473,Carlos,Local,Efectivo,Cancelado
+1498,2026-02-07,Tableta,7,354,0.05,2054,Maria,En linea,Tarjeta,Cancelado
+1499,2026-02-08,Laptop,3,936,0.05,3278,Carlos,En linea,nan,Cancelado
+1500,2026-02-09,Tableta,9,801,0.05,4921,Carlos,En linea,Tarjeta,Cancelado
+1501,2026-02-10,Tableta,8,407,0.1,1494,Maria,Local,nan,Cancelado
+1502,2026-02-11,Laptop,4,444,,1112,Maria,En linea,Tarjeta,Cancelado
+1503,2026-02-12,Laptop,1,226,0.05,3093,Juan,Local,Tarjeta,Pendiente
+1504,2026-02-13,Laptop,1,386,,1095,Maria,Local,nan,Completo
+1505,2026-02-14,Telefono,1,865,0.15,1341,Carlos,Local,Efectivo,Completo
+1506,2026-02-15,Laptop,1,824,0.15,4939,Carlos,Local,Efectivo,Cancelado
+1507,2026-02-16,Tableta,8,861,0.05,1358,Maria,Local,Efectivo,Completo
+1508,2026-02-17,Laptop,3,695,,944,Carlos,En linea,Tarjeta,Cancelado
+1509,2026-02-18,Tableta,6,586,0.05,2288,Juan,Local,Tarjeta,Pendiente
+1510,2026-02-19,Telefono,3,482,0.15,4817,Carlos,En linea,Efectivo,Completo
+1511,2026-02-20,Tableta,5,505,0.05,3954,Juan,Local,Tarjeta,Completo
+1512,2026-02-21,Tableta,7,487,,4452,Carlos,Local,Tarjeta,Pendiente
+1513,2026-02-22,Laptop,2,624,0.15,1530,Juan,En linea,Efectivo,Pendiente
+1514,2026-02-23,Laptop,6,656,0.1,1795,Juan,Local,nan,Pendiente
+1515,2026-02-24,Tableta,6,738,0.15,2563,Maria,Local,Tarjeta,Completo
+1516,2026-02-25,Laptop,3,725,0.1,1947,Juan,En linea,Tarjeta,Completo
+1517,2026-02-26,Telefono,6,375,0.05,2545,Maria,En linea,Tarjeta,Pendiente
+1518,2026-02-27,Telefono,5,599,0.05,3350,Carlos,Local,Tarjeta,Pendiente
+1519,2026-02-28,Laptop,2,816,,4324,Carlos,Local,nan,Pendiente
+1520,2026-03-01,Telefono,9,436,0.1,2568,Carlos,Local,Efectivo,Pendiente
+1521,2026-03-02,Laptop,8,580,0.05,4261,Juan,En linea,Tarjeta,Pendiente
+1522,2026-03-03,Tableta,3,996,0.1,2775,Carlos,Local,Efectivo,Cancelado
+1523,2026-03-04,Tableta,8,372,0.05,2308,Carlos,En linea,Tarjeta,Pendiente
+1524,2026-03-05,Telefono,9,157,0.15,1811,Maria,En linea,nan,Cancelado
+1525,2026-03-06,Laptop,3,427,0.05,4555,Maria,Local,Efectivo,Completo
+1526,2026-03-07,Laptop,3,830,,2951,Carlos,En linea,nan,Completo
+1527,2026-03-08,Telefono,2,208,0.15,1589,Carlos,Local,Tarjeta,Cancelado
+1528,2026-03-09,Tableta,8,378,,2172,Juan,Local,nan,Pendiente
+1529,2026-03-10,Telefono,1,785,0.15,4175,Juan,En linea,nan,Completo
+1530,2026-03-11,Tableta,8,427,0.1,4854,Carlos,En linea,Tarjeta,Pendiente
+1531,2026-03-12,Laptop,7,875,,2503,Maria,En linea,Tarjeta,Pendiente
+1532,2026-03-13,Tableta,7,414,0.05,4698,Carlos,En linea,Efectivo,Cancelado
+1533,2026-03-14,Telefono,3,573,0.1,1624,Juan,En linea,Tarjeta,Completo
+1534,2026-03-15,Laptop,1,210,0.05,1721,Maria,En linea,Efectivo,Completo
+1535,2026-03-16,Telefono,4,798,0.15,3360,Maria,Local,nan,Cancelado
+1536,2026-03-17,Telefono,9,880,0.15,2773,Juan,Local,nan,Pendiente
+1537,2026-03-18,Tableta,5,328,0.05,3490,Carlos,Local,Efectivo,Pendiente
+1538,2026-03-19,Telefono,1,596,0.05,3010,Carlos,En linea,Tarjeta,Completo
+1539,2026-03-20,Tableta,5,255,0.1,736,Carlos,En linea,Tarjeta,Cancelado
+1540,2026-03-21,Laptop,8,572,0.05,1644,Juan,En linea,nan,Cancelado
+1541,2026-03-22,Tableta,8,800,,3753,Maria,Local,Efectivo,Pendiente
+1542,2026-03-23,Laptop,5,371,,4282,Juan,Local,nan,Pendiente
+1543,2026-03-24,Tableta,9,986,0.05,1266,Carlos,En linea,nan,Cancelado
+1544,2026-03-25,Telefono,1,101,,3181,Juan,En linea,Tarjeta,Completo
+1545,2026-03-26,Tableta,4,857,0.05,3165,Maria,En linea,Efectivo,Pendiente
+1546,2026-03-27,Tableta,3,821,0.1,2259,Juan,En linea,nan,Cancelado
+1547,2026-03-28,Laptop,2,610,,3991,Carlos,Local,Tarjeta,Cancelado
+1548,2026-03-29,Telefono,8,385,,3315,Maria,Local,nan,Cancelado
+1549,2026-03-30,Tableta,7,970,0.05,4013,Juan,Local,nan,Completo
+1550,2026-03-31,Telefono,9,112,,995,Juan,En linea,Tarjeta,Pendiente
+1551,2026-04-01,Tableta,2,707,0.15,3680,Maria,Local,Tarjeta,Pendiente
+1552,2026-04-02,Tableta,4,597,0.1,4430,Maria,En linea,Efectivo,Pendiente
+1553,2026-04-03,Telefono,6,832,0.1,2572,Carlos,En linea,nan,Completo
+1554,2026-04-04,Tableta,3,337,,837,Maria,En linea,Efectivo,Pendiente
+1555,2026-04-05,Telefono,8,193,,4449,Carlos,Local,Tarjeta,Pendiente
+1556,2026-04-06,Tableta,3,437,0.15,3608,Juan,Local,Tarjeta,Pendiente
+1557,2026-04-07,Laptop,2,880,0.15,2317,Carlos,En linea,nan,Pendiente
+1558,2026-04-08,Telefono,3,270,,636,Juan,Local,Efectivo,Completo
+1559,2026-04-09,Tableta,6,705,,3055,Maria,En linea,Efectivo,Cancelado
+1560,2026-04-10,Tableta,2,760,0.15,4915,Juan,En linea,nan,Cancelado
+1561,2026-04-11,Laptop,8,723,0.05,1415,Maria,En linea,nan,Pendiente
+1562,2026-04-12,Telefono,1,666,0.15,4038,Juan,Local,Efectivo,Pendiente
+1563,2026-04-13,Tableta,7,948,0.05,2600,Juan,Local,Tarjeta,Pendiente
+1564,2026-04-14,Laptop,2,566,0.1,3407,Juan,En linea,Tarjeta,Completo
+1565,2026-04-15,Tableta,6,727,0.1,3414,Juan,Local,nan,Pendiente
+1566,2026-04-16,Telefono,2,242,0.15,2482,Carlos,Local,Efectivo,Completo
+1567,2026-04-17,Tableta,2,300,0.05,4370,Juan,Local,Efectivo,Pendiente
+1568,2026-04-18,Tableta,8,279,0.15,4067,Carlos,Local,Efectivo,Pendiente
+1569,2026-04-19,Tableta,2,813,0.15,1498,Maria,En linea,Tarjeta,Cancelado
+1570,2026-04-20,Tableta,7,463,0.05,2647,Maria,Local,Tarjeta,Pendiente
+1571,2026-04-21,Laptop,3,578,0.15,895,Carlos,En linea,Efectivo,Completo
+1572,2026-04-22,Laptop,8,664,0.1,4098,Maria,En linea,Efectivo,Cancelado
+1573,2026-04-23,Telefono,7,570,,1438,Maria,Local,nan,Completo
+1574,2026-04-24,Laptop,8,483,,2136,Juan,En linea,nan,Cancelado
+1575,2026-04-25,Laptop,7,791,0.15,3224,Juan,En linea,Efectivo,Completo
+1576,2026-04-26,Telefono,6,516,0.05,3010,Juan,Local,Efectivo,Cancelado
+1577,2026-04-27,Laptop,7,924,0.05,2149,Carlos,En linea,Tarjeta,Completo
+1578,2026-04-28,Laptop,5,407,0.1,4190,Carlos,En linea,Efectivo,Completo
+1579,2026-04-29,Telefono,7,748,0.05,3935,Maria,Local,nan,Pendiente
+1580,2026-04-30,Telefono,1,793,0.05,3701,Juan,Local,Tarjeta,Cancelado
+1581,2026-05-01,Telefono,1,466,0.1,4679,Carlos,Local,nan,Cancelado
+1582,2026-05-02,Tableta,9,100,0.15,4866,Carlos,Local,nan,Pendiente
+1583,2026-05-03,Tableta,5,143,,2791,Juan,Local,Tarjeta,Completo
+1584,2026-05-04,Telefono,5,838,0.1,4983,Carlos,En linea,nan,Completo
+1585,2026-05-05,Telefono,3,942,0.15,713,Juan,En linea,Efectivo,Cancelado
+1586,2026-05-06,Telefono,5,197,0.1,3737,Maria,Local,nan,Completo
+1587,2026-05-07,Tableta,3,819,0.15,4362,Maria,Local,Tarjeta,Cancelado
+1588,2026-05-08,Tableta,9,364,0.1,558,Maria,En linea,Tarjeta,Cancelado
+1589,2026-05-09,Laptop,9,899,0.15,3430,Juan,Local,Tarjeta,Completo
+1590,2026-05-10,Laptop,6,882,0.1,3471,Carlos,Local,nan,Completo
+1591,2026-05-11,Telefono,1,239,0.15,2027,Maria,En linea,Efectivo,Completo
+1592,2026-05-12,Tableta,7,580,0.1,622,Maria,En linea,Tarjeta,Pendiente
+1593,2026-05-13,Tableta,7,336,,4219,Maria,En linea,Efectivo,Cancelado
+1594,2026-05-14,Tableta,4,171,,1936,Carlos,Local,Tarjeta,Completo
+1595,2026-05-15,Telefono,8,766,0.05,1662,Carlos,En linea,Efectivo,Pendiente
+1596,2026-05-16,Laptop,6,289,0.15,3800,Juan,Local,Efectivo,Completo
+1597,2026-05-17,Telefono,4,367,0.1,3845,Maria,En linea,Efectivo,Cancelado
+1598,2026-05-18,Laptop,4,420,0.15,2986,Carlos,Local,Tarjeta,Pendiente
+1599,2026-05-19,Laptop,2,206,,1061,Juan,Local,nan,Cancelado
+1600,2026-05-20,Telefono,2,331,0.15,4481,Maria,Local,nan,Completo
+1601,2026-05-21,Laptop,4,141,0.1,2237,Carlos,En linea,nan,Completo
+1602,2026-05-22,Laptop,5,801,0.15,1404,Carlos,En linea,Efectivo,Completo
+1603,2026-05-23,Tableta,8,982,0.1,4054,Juan,En linea,Tarjeta,Pendiente
+1604,2026-05-24,Laptop,6,238,,4990,Maria,Local,Efectivo,Pendiente
+1605,2026-05-25,Telefono,4,714,,2226,Maria,En linea,Tarjeta,Pendiente
+1606,2026-05-26,Telefono,7,782,,3423,Carlos,En linea,Efectivo,Pendiente
+1607,2026-05-27,Laptop,8,962,0.05,4031,Maria,Local,Tarjeta,Completo
+1608,2026-05-28,Tableta,2,372,,4406,Juan,Local,Tarjeta,Completo
+1609,2026-05-29,Tableta,7,580,0.15,1434,Carlos,En linea,Tarjeta,Completo
+1610,2026-05-30,Laptop,2,515,0.05,574,Carlos,En linea,Efectivo,Pendiente
+1611,2026-05-31,Laptop,2,605,,794,Juan,En linea,nan,Pendiente
+1612,2026-06-01,Telefono,8,832,0.15,520,Carlos,Local,Efectivo,Completo
+1613,2026-06-02,Laptop,2,824,0.15,3742,Maria,En linea,Efectivo,Completo
+1614,2026-06-03,Tableta,9,952,0.15,1538,Maria,Local,Tarjeta,Pendiente
+1615,2026-06-04,Laptop,1,523,0.1,1609,Carlos,Local,Tarjeta,Cancelado
+1616,2026-06-05,Telefono,9,506,0.05,4271,Juan,En linea,nan,Completo
+1617,2026-06-06,Telefono,1,667,0.15,871,Juan,En linea,nan,Completo
+1618,2026-06-07,Telefono,2,489,0.1,1674,Maria,Local,Tarjeta,Completo
+1619,2026-06-08,Telefono,6,441,,1664,Juan,Local,nan,Pendiente
+1620,2026-06-09,Telefono,6,713,0.15,1592,Carlos,En linea,nan,Completo
+1621,2026-06-10,Laptop,1,592,0.1,1783,Carlos,En linea,Tarjeta,Completo
+1622,2026-06-11,Laptop,7,291,0.15,2511,Maria,En linea,Efectivo,Completo
+1623,2026-06-12,Laptop,8,598,0.05,1345,Maria,Local,nan,Completo
+1624,2026-06-13,Laptop,2,921,0.05,2491,Maria,Local,Tarjeta,Completo
+1625,2026-06-14,Telefono,8,811,,1020,Juan,En linea,nan,Cancelado
+1626,2026-06-15,Tableta,9,332,0.15,4966,Carlos,Local,nan,Cancelado
+1627,2026-06-16,Laptop,6,326,0.1,4696,Carlos,Local,Tarjeta,Completo
+1628,2026-06-17,Tableta,5,470,,742,Carlos,En linea,nan,Completo
+1629,2026-06-18,Laptop,9,238,0.15,3300,Maria,Local,nan,Completo
+1630,2026-06-19,Laptop,9,955,,3396,Carlos,En linea,nan,Completo
+1631,2026-06-20,Tableta,1,916,0.1,3102,Juan,En linea,Efectivo,Pendiente
+1632,2026-06-21,Telefono,3,248,,2773,Juan,Local,Efectivo,Pendiente
+1633,2026-06-22,Laptop,9,214,,2041,Carlos,Local,nan,Pendiente
+1634,2026-06-23,Laptop,2,549,,3265,Maria,En linea,Tarjeta,Cancelado
+1635,2026-06-24,Laptop,4,162,0.15,2614,Carlos,Local,nan,Completo
+1636,2026-06-25,Tableta,4,203,0.1,4991,Juan,En linea,nan,Pendiente
+1637,2026-06-26,Telefono,2,950,0.05,3583,Juan,Local,Efectivo,Completo
+1638,2026-06-27,Tableta,3,970,0.15,2357,Juan,Local,Efectivo,Completo
+1639,2026-06-28,Tableta,3,767,0.05,1269,Carlos,Local,Efectivo,Cancelado
+1640,2026-06-29,Telefono,1,372,0.05,1922,Juan,En linea,nan,Cancelado
+1641,2026-06-30,Tableta,6,105,0.15,906,Maria,Local,nan,Pendiente
+1642,2026-07-01,Telefono,8,246,0.15,3472,Carlos,En linea,Tarjeta,Pendiente
+1643,2026-07-02,Laptop,3,283,0.1,2372,Carlos,En linea,nan,Cancelado
+1644,2026-07-03,Telefono,5,127,0.1,3194,Juan,En linea,nan,Cancelado
+1645,2026-07-04,Laptop,1,649,,2769,Juan,Local,Efectivo,Completo
+1646,2026-07-05,Tableta,7,218,0.05,1681,Maria,En linea,Efectivo,Completo
+1647,2026-07-06,Tableta,1,392,0.1,1939,Carlos,En linea,Efectivo,Pendiente
+1648,2026-07-07,Laptop,9,470,,3553,Juan,Local,Efectivo,Pendiente
+1649,2026-07-08,Tableta,8,343,0.1,3833,Maria,En linea,Efectivo,Cancelado
+1650,2026-07-09,Telefono,7,679,0.15,3397,Juan,En linea,Tarjeta,Pendiente
+1651,2026-07-10,Laptop,7,825,0.1,3403,Carlos,Local,Tarjeta,Completo
+1652,2026-07-11,Tableta,5,317,0.05,728,Juan,En linea,Tarjeta,Cancelado
+1653,2026-07-12,Laptop,5,276,0.1,4459,Carlos,Local,Efectivo,Completo
+1654,2026-07-13,Telefono,5,398,0.05,2393,Juan,En linea,Efectivo,Cancelado
+1655,2026-07-14,Telefono,1,775,0.15,1813,Carlos,En linea,Efectivo,Cancelado
+1656,2026-07-15,Tableta,8,157,0.05,1570,Maria,Local,Tarjeta,Completo
+1657,2026-07-16,Telefono,1,368,0.1,1474,Carlos,En linea,Efectivo,Pendiente
+1658,2026-07-17,Laptop,4,407,,2238,Maria,En linea,Tarjeta,Pendiente
+1659,2026-07-18,Telefono,9,669,0.15,3785,Carlos,En linea,Efectivo,Pendiente
+1660,2026-07-19,Laptop,9,387,0.1,1257,Maria,Local,nan,Pendiente
+1661,2026-07-20,Laptop,5,204,0.15,3595,Juan,Local,Tarjeta,Completo
+1662,2026-07-21,Telefono,4,327,0.15,820,Carlos,Local,nan,Cancelado
+1663,2026-07-22,Tableta,3,346,0.1,2821,Juan,Local,Tarjeta,Completo
+1664,2026-07-23,Telefono,3,799,0.1,1055,Maria,Local,Efectivo,Pendiente
+1665,2026-07-24,Laptop,5,593,,1886,Carlos,En linea,Efectivo,Pendiente
+1666,2026-07-25,Laptop,1,182,0.15,3547,Carlos,Local,nan,Completo
+1667,2026-07-26,Telefono,5,285,0.15,2927,Juan,Local,Efectivo,Cancelado
+1668,2026-07-27,Tableta,6,351,0.1,2504,Carlos,Local,Tarjeta,Completo
+1669,2026-07-28,Tableta,7,454,0.05,2430,Carlos,En linea,Efectivo,Completo
+1670,2026-07-29,Laptop,9,849,0.1,2663,Juan,En linea,Efectivo,Completo
+1671,2026-07-30,Laptop,3,971,0.15,4367,Carlos,Local,Tarjeta,Cancelado
+1672,2026-07-31,Tableta,2,795,0.1,2926,Juan,En linea,nan,Completo
+1673,2026-08-01,Telefono,3,895,,4293,Juan,En linea,nan,Completo
+1674,2026-08-02,Laptop,9,996,0.05,3013,Juan,En linea,Efectivo,Pendiente
+1675,2026-08-03,Laptop,7,309,0.1,4303,Juan,En linea,Tarjeta,Completo
+1676,2026-08-04,Tableta,9,915,,2827,Juan,Local,nan,Pendiente
+1677,2026-08-05,Telefono,2,907,0.15,1117,Maria,Local,nan,Pendiente
+1678,2026-08-06,Tableta,5,708,0.1,2665,Maria,En linea,Efectivo,Pendiente
+1679,2026-08-07,Telefono,4,546,0.15,3808,Juan,En linea,Tarjeta,Cancelado
+1680,2026-08-08,Telefono,2,559,,1492,Maria,En linea,nan,Pendiente
+1681,2026-08-09,Telefono,9,571,0.15,1877,Maria,En linea,Efectivo,Completo
+1682,2026-08-10,Laptop,9,819,,4881,Carlos,Local,Efectivo,Completo
+1683,2026-08-11,Tableta,6,469,,3674,Juan,En linea,Efectivo,Pendiente
+1684,2026-08-12,Tableta,6,999,,1805,Maria,Local,Efectivo,Pendiente
+1685,2026-08-13,Telefono,8,591,0.1,3578,Carlos,En linea,nan,Completo
+1686,2026-08-14,Laptop,6,236,0.15,3186,Carlos,Local,Tarjeta,Pendiente
+1687,2026-08-15,Laptop,1,466,0.15,3483,Juan,En linea,Efectivo,Cancelado
+1688,2026-08-16,Tableta,4,283,0.05,3023,Juan,Local,Efectivo,Pendiente
+1689,2026-08-17,Laptop,7,687,0.05,4082,Carlos,Local,nan,Cancelado
+1690,2026-08-18,Laptop,2,386,0.05,1985,Juan,Local,Efectivo,Cancelado
+1691,2026-08-19,Telefono,9,571,0.05,2600,Juan,En linea,Efectivo,Cancelado
+1692,2026-08-20,Laptop,8,474,0.15,4215,Carlos,Local,Tarjeta,Pendiente
+1693,2026-08-21,Telefono,8,753,,2501,Carlos,En linea,Efectivo,Cancelado
+1694,2026-08-22,Tableta,7,848,,1887,Juan,Local,nan,Cancelado
+1695,2026-08-23,Laptop,4,636,0.1,3683,Maria,Local,Tarjeta,Pendiente
+1696,2026-08-24,Tableta,2,610,,1530,Juan,En linea,nan,Cancelado
+1697,2026-08-25,Tableta,3,901,0.15,2265,Maria,Local,Tarjeta,Pendiente
+1698,2026-08-26,Laptop,6,678,0.15,1720,Carlos,En linea,Tarjeta,Completo
+1699,2026-08-27,Laptop,5,349,0.15,4306,Maria,En linea,Efectivo,Cancelado
+1700,2026-08-28,Tableta,8,609,0.1,2914,Carlos,En linea,Efectivo,Pendiente
+1701,2026-08-29,Laptop,6,729,0.05,4845,Juan,En linea,Efectivo,Completo
+1702,2026-08-30,Telefono,6,172,,2118,Juan,Local,nan,Cancelado
+1703,2026-08-31,Telefono,1,381,0.15,1763,Carlos,Local,Efectivo,Cancelado
+1704,2026-09-01,Laptop,4,459,0.15,1371,Carlos,En linea,Efectivo,Pendiente
+1705,2026-09-02,Tableta,5,109,0.05,1334,Carlos,Local,Tarjeta,Completo
+1706,2026-09-03,Laptop,3,310,0.15,3322,Juan,Local,Efectivo,Pendiente
+1707,2026-09-04,Laptop,9,934,,1418,Juan,En linea,Efectivo,Cancelado
+1708,2026-09-05,Tableta,1,251,0.1,2224,Maria,Local,Efectivo,Cancelado
+1709,2026-09-06,Tableta,6,104,0.15,2913,Carlos,En linea,Efectivo,Cancelado
+1710,2026-09-07,Telefono,6,294,,1813,Maria,Local,Tarjeta,Cancelado
+1711,2026-09-08,Tableta,5,382,0.15,4998,Juan,Local,Efectivo,Completo
+1712,2026-09-09,Telefono,5,563,0.05,2605,Maria,En linea,Tarjeta,Completo
+1713,2026-09-10,Tableta,5,212,0.15,3068,Maria,Local,nan,Pendiente
+1714,2026-09-11,Laptop,6,370,0.15,1638,Juan,Local,Efectivo,Pendiente
+1715,2026-09-12,Telefono,8,262,0.1,709,Juan,En linea,Efectivo,Pendiente
+1716,2026-09-13,Telefono,2,559,0.05,1564,Carlos,Local,Efectivo,Cancelado
+1717,2026-09-14,Telefono,6,204,0.05,2720,Maria,En linea,Tarjeta,Pendiente
+1718,2026-09-15,Laptop,1,792,0.1,733,Juan,Local,Efectivo,Completo
+1719,2026-09-16,Laptop,4,655,0.15,1292,Juan,En linea,Efectivo,Pendiente
+1720,2026-09-17,Laptop,3,381,,3610,Maria,En linea,nan,Pendiente
+1721,2026-09-18,Laptop,9,786,0.05,2666,Juan,En linea,Tarjeta,Completo
+1722,2026-09-19,Laptop,3,261,0.05,834,Carlos,En linea,Tarjeta,Completo
+1723,2026-09-20,Telefono,6,450,0.15,1859,Carlos,En linea,nan,Cancelado
+1724,2026-09-21,Laptop,1,533,0.15,1714,Maria,Local,Tarjeta,Completo
+1725,2026-09-22,Telefono,6,951,0.05,4919,Carlos,Local,Efectivo,Completo
+1726,2026-09-23,Laptop,4,239,0.15,783,Juan,En linea,Efectivo,Pendiente
+1727,2026-09-24,Tableta,8,570,,712,Juan,Local,nan,Completo
+1728,2026-09-25,Telefono,9,231,0.05,2158,Juan,En linea,Tarjeta,Cancelado
+1729,2026-09-26,Tableta,4,186,,4578,Juan,Local,Tarjeta,Pendiente
+1730,2026-09-27,Telefono,6,787,,1917,Maria,Local,Tarjeta,Cancelado
+1731,2026-09-28,Tableta,1,282,0.15,2886,Carlos,En linea,nan,Completo
+1732,2026-09-29,Laptop,4,467,,2294,Carlos,En linea,Efectivo,Cancelado
+1733,2026-09-30,Laptop,7,228,0.15,604,Juan,Local,nan,Cancelado
+1734,2026-10-01,Laptop,1,345,0.1,4393,Maria,Local,Efectivo,Completo
+1735,2026-10-02,Telefono,8,700,0.15,4345,Juan,En linea,nan,Completo
+1736,2026-10-03,Tableta,6,677,,4190,Juan,Local,Efectivo,Pendiente
+1737,2026-10-04,Laptop,5,769,0.1,3792,Maria,Local,Tarjeta,Pendiente
+1738,2026-10-05,Tableta,9,998,0.15,878,Maria,En linea,Tarjeta,Pendiente
+1739,2026-10-06,Tableta,2,477,,3793,Juan,Local,Tarjeta,Completo
+1740,2026-10-07,Laptop,5,248,0.05,3829,Carlos,En linea,nan,Cancelado
+1741,2026-10-08,Laptop,6,951,0.05,3938,Juan,En linea,nan,Cancelado
+1742,2026-10-09,Tableta,7,532,0.15,724,Carlos,En linea,nan,Pendiente
+1743,2026-10-10,Laptop,5,727,0.15,1237,Carlos,Local,Tarjeta,Pendiente
+1744,2026-10-11,Laptop,9,825,0.05,735,Maria,Local,Efectivo,Completo
+1745,2026-10-12,Laptop,1,568,,4778,Maria,En linea,Tarjeta,Cancelado
+1746,2026-10-13,Telefono,7,545,,1211,Juan,En linea,Tarjeta,Pendiente
+1747,2026-10-14,Tableta,7,580,,2388,Carlos,Local,Efectivo,Completo
+1748,2026-10-15,Tableta,4,983,0.15,1759,Carlos,Local,Efectivo,Pendiente
+1749,2026-10-16,Telefono,9,393,0.1,1248,Juan,Local,Efectivo,Completo
+1750,2026-10-17,Tableta,5,864,0.1,4486,Juan,En linea,Efectivo,Cancelado
+1751,2026-10-18,Laptop,4,242,0.1,4051,Juan,En linea,Tarjeta,Completo
+1752,2026-10-19,Tableta,7,349,0.1,1009,Maria,Local,nan,Pendiente
+1753,2026-10-20,Laptop,4,977,0.1,2323,Juan,Local,Tarjeta,Pendiente
+1754,2026-10-21,Telefono,3,401,0.15,3441,Juan,Local,Efectivo,Cancelado
+1755,2026-10-22,Laptop,9,124,0.15,4732,Carlos,En linea,nan,Cancelado
+1756,2026-10-23,Tableta,8,888,0.1,2634,Juan,En linea,nan,Pendiente
+1757,2026-10-24,Tableta,1,988,0.15,2277,Carlos,Local,Tarjeta,Pendiente
+1758,2026-10-25,Tableta,7,989,0.15,1722,Carlos,Local,Tarjeta,Pendiente
+1759,2026-10-26,Telefono,9,169,0.1,4167,Maria,En linea,Tarjeta,Cancelado
+1760,2026-10-27,Telefono,8,724,,2277,Juan,En linea,nan,Pendiente
+1761,2026-10-28,Tableta,8,974,0.15,1804,Juan,Local,nan,Cancelado
+1762,2026-10-29,Laptop,6,211,,1201,Carlos,Local,nan,Pendiente
+1763,2026-10-30,Telefono,4,463,0.15,3489,Maria,Local,Efectivo,Completo
+1764,2026-10-31,Tableta,8,402,0.15,651,Maria,En linea,Efectivo,Completo
+1765,2026-11-01,Tableta,3,570,0.1,1825,Juan,Local,Tarjeta,Pendiente
+1766,2026-11-02,Telefono,9,190,0.15,1801,Carlos,En linea,nan,Completo
+1767,2026-11-03,Telefono,2,629,0.05,4222,Juan,En linea,Tarjeta,Cancelado
+1768,2026-11-04,Telefono,2,760,0.05,2211,Juan,Local,nan,Completo
+1769,2026-11-05,Laptop,7,838,0.1,1306,Juan,Local,Tarjeta,Completo
+1770,2026-11-06,Laptop,4,825,,4830,Juan,En linea,Efectivo,Cancelado
+1771,2026-11-07,Tableta,8,971,,3222,Carlos,Local,nan,Completo
+1772,2026-11-08,Telefono,9,762,,1825,Maria,En linea,Efectivo,Completo
+1773,2026-11-09,Laptop,7,291,0.05,4633,Juan,Local,nan,Pendiente
+1774,2026-11-10,Telefono,5,651,,1659,Juan,Local,Tarjeta,Cancelado
+1775,2026-11-11,Tableta,8,341,,3369,Juan,Local,nan,Cancelado
+1776,2026-11-12,Laptop,4,237,0.1,1742,Juan,Local,Efectivo,Pendiente
+1777,2026-11-13,Laptop,2,444,,847,Maria,En linea,nan,Pendiente
+1778,2026-11-14,Laptop,6,279,0.05,2331,Maria,En linea,Tarjeta,Completo
+1779,2026-11-15,Tableta,9,811,0.05,2069,Maria,En linea,nan,Completo
+1780,2026-11-16,Telefono,1,602,0.05,4435,Maria,Local,Efectivo,Completo
+1781,2026-11-17,Laptop,7,302,0.1,2418,Juan,En linea,Tarjeta,Pendiente
+1782,2026-11-18,Tableta,9,672,0.1,3732,Carlos,En linea,Efectivo,Cancelado
+1783,2026-11-19,Telefono,9,291,0.15,4258,Maria,En linea,nan,Completo
+1784,2026-11-20,Tableta,3,104,,2855,Maria,Local,Efectivo,Pendiente
+1785,2026-11-21,Telefono,5,989,0.1,1897,Juan,En linea,nan,Cancelado
+1786,2026-11-22,Tableta,8,336,0.05,3280,Juan,Local,Tarjeta,Pendiente
+1787,2026-11-23,Telefono,8,792,0.05,2324,Juan,Local,Efectivo,Completo
+1788,2026-11-24,Laptop,4,410,0.1,2991,Juan,En linea,Efectivo,Pendiente
+1789,2026-11-25,Telefono,1,648,0.1,4560,Carlos,Local,nan,Pendiente
+1790,2026-11-26,Tableta,1,155,0.1,904,Carlos,En linea,Efectivo,Pendiente
+1791,2026-11-27,Tableta,4,542,0.15,2221,Maria,En linea,Efectivo,Pendiente
+1792,2026-11-28,Telefono,6,336,0.05,3325,Carlos,En linea,Tarjeta,Cancelado
+1793,2026-11-29,Laptop,8,969,0.15,4345,Maria,En linea,nan,Completo
+1794,2026-11-30,Laptop,6,960,0.15,4710,Maria,En linea,nan,Cancelado
+1795,2026-12-01,Telefono,9,296,,3692,Carlos,Local,Tarjeta,Pendiente
+1796,2026-12-02,Telefono,9,684,0.05,564,Maria,En linea,Tarjeta,Pendiente
+1797,2026-12-03,Tableta,2,670,0.05,1799,Juan,Local,nan,Completo
+1798,2026-12-04,Laptop,1,851,0.1,1915,Maria,En linea,Tarjeta,Completo
+1799,2026-12-05,Telefono,2,613,0.1,4093,Juan,En linea,Tarjeta,Cancelado
+1800,2026-12-06,Laptop,5,548,,1468,Carlos,En linea,Tarjeta,Cancelado
+1801,2026-12-07,Telefono,4,459,0.15,868,Carlos,Local,nan,Completo
+1802,2026-12-08,Telefono,4,799,0.1,732,Maria,Local,Tarjeta,Cancelado
+1803,2026-12-09,Laptop,9,918,0.1,2742,Juan,Local,Efectivo,Pendiente
+1804,2026-12-10,Telefono,8,129,0.05,3583,Maria,Local,Efectivo,Pendiente
+1805,2026-12-11,Telefono,6,878,0.05,1420,Carlos,En linea,nan,Completo
+1806,2026-12-12,Tableta,1,207,0.1,1188,Maria,En linea,Tarjeta,Cancelado
+1807,2026-12-13,Telefono,2,943,0.05,4772,Maria,Local,Efectivo,Pendiente
+1808,2026-12-14,Telefono,6,701,,1969,Juan,Local,nan,Completo
+1809,2026-12-15,Telefono,2,816,0.1,4759,Carlos,Local,Efectivo,Cancelado
